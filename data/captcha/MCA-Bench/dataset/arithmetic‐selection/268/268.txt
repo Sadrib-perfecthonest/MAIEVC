@@ -1,0 +1,5 @@
+，268。
+Click on the three numbers in the image so that they add up to 268
+ 114: (32, 33, 93, 62)
+ 40: (118, 80, 161, 109)
+ 114: (60, 152, 121, 181)

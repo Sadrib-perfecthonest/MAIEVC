@@ -1,0 +1,4 @@
+Please click on all vowel letters in the image.
+。
+U: (106, 63, 139, 101)
+E: (181, 155, 206, 185)

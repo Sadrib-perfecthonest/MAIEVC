@@ -1,0 +1,5 @@
+，311。
+Click on the three numbers in the image so that they add up to 311
+ 79: (156, 61, 198, 90)
+ 228: (5, 155, 69, 184)
+ 4: (87, 147, 108, 176)

@@ -1,0 +1,4 @@
+Pick out all the upside down letters in the picture.
+results:
+(161,110,205,149);
+(169,37,213,77);

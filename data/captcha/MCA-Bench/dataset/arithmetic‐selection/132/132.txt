@@ -1,0 +1,5 @@
+，132。
+Click on the three numbers in the image so that they add up to 132
+ 13: (164, 19, 203, 48)
+ 74: (27, 78, 69, 107)
+ 45: (96, 36, 139, 65)

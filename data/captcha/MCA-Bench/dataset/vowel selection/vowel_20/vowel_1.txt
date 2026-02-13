@@ -1,0 +1,4 @@
+Please click on all vowel letters in the image.
+。
+U: (91, 59, 123, 98)
+O: (76, 158, 107, 189)

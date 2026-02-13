@@ -1,0 +1,5 @@
+ ABK .
+Please click on ABK in turn.
+A (80, 34, 112, 78)
+B (179, 27, 217, 71)
+K (40, 105, 72, 145)

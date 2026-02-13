@@ -1,0 +1,4 @@
+Please click on all vowel letters in the image.
+。
+A: (53, 126, 88, 161)
+U: (92, 71, 124, 109)

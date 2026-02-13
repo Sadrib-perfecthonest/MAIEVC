@@ -1,0 +1,5 @@
+，134。
+Click on the three numbers in the image so that they add up to 134
+ 29: (19, 16, 61, 45)
+ 47: (88, 52, 131, 81)
+ 58: (134, 34, 176, 63)

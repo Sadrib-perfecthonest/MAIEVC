@@ -1,0 +1,5 @@
+，252。
+Click on the three numbers in the image so that they add up to 252
+ 72: (139, 17, 181, 46)
+ 156: (12, 125, 73, 154)
+ 24: (74, 77, 116, 106)

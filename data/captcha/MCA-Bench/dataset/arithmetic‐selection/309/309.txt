@@ -1,0 +1,5 @@
+，309。
+Click on the three numbers in the image so that they add up to 309
+ 262: (149, 58, 213, 87)
+ 36: (5, 22, 47, 51)
+ 11: (54, 101, 87, 130)

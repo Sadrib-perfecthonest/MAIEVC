@@ -1,0 +1,5 @@
+ ADI .
+Please click on ADI in turn.
+A (90, 90, 122, 130)
+D (32, 26, 64, 68)
+I (49, 105, 73, 155)

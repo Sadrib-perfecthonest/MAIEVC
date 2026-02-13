@@ -1,0 +1,5 @@
+，174。
+Click on the three numbers in the image so that they add up to 174
+ 65: (21, 102, 63, 131)
+ 107: (128, 168, 189, 197)
+ 2: (48, 27, 68, 56)

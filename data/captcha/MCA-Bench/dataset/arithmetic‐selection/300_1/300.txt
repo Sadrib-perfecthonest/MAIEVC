@@ -1,0 +1,5 @@
+，300。
+Click on the three numbers in the image so that they add up to 300
+ 41: (148, 153, 185, 182)
+ 38: (142, 81, 184, 110)
+ 221: (52, 139, 110, 168)

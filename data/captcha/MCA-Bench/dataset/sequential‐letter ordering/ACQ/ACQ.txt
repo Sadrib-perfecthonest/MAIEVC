@@ -1,0 +1,5 @@
+ ACQ .
+Please click on ACQ in turn.
+A (49, 106, 85, 152)
+C (186, 36, 226, 80)
+Q (90, 59, 134, 107)

@@ -1,0 +1,5 @@
+，138。
+Click on the three numbers in the image so that they add up to 138
+ 55: (129, 15, 171, 44)
+ 20: (138, 95, 180, 124)
+ 63: (65, 122, 107, 151)

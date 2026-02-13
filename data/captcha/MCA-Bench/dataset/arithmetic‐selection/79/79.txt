@@ -1,0 +1,5 @@
+，79。
+Click on the three numbers in the image so that they add up to 79
+ 27: (81, 68, 123, 97)
+ 42: (96, 11, 139, 40)
+ 10: (163, 88, 202, 117)

@@ -1,0 +1,5 @@
+，222。
+Click on the three numbers in the image so that they add up to 222
+ 84: (158, 18, 200, 47)
+ 40: (153, 126, 196, 155)
+ 98: (64, 122, 106, 151)

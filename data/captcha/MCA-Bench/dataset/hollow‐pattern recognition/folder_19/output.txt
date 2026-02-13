@@ -1,0 +1,5 @@
+。
+Please click on all the hollow shapes in the image.
+
+(58, 96, 107, 145)
+(109, 26, 166, 83)

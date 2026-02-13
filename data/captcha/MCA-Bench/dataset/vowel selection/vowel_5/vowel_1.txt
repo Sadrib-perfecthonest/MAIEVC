@@ -1,0 +1,4 @@
+Please click on all vowel letters in the image.
+。
+E: (175, 62, 202, 95)
+O: (58, 130, 91, 163)

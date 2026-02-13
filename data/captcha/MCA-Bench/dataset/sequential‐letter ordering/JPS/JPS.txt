@@ -1,0 +1,5 @@
+ JPS .
+Please click on JPS in turn.
+J (188, 72, 218, 120)
+P (164, 35, 206, 73)
+S (11, 61, 49, 111)

@@ -1,0 +1,5 @@
+，264。
+Click on the three numbers in the image so that they add up to 264
+ 189: (92, 148, 153, 177)
+ 65: (52, 68, 94, 97)
+ 10: (46, 159, 85, 188)

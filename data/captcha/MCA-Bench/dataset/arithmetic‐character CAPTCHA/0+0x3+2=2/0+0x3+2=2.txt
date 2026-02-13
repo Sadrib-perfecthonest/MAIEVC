@@ -1,0 +1,4 @@
+
+Please calculate the result in the image
+: 2
+result: Two

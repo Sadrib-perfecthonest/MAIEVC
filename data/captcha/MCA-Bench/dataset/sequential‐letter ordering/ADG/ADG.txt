@@ -1,0 +1,5 @@
+ ADG .
+Please click on ADG in turn.
+A (76, 71, 110, 113)
+D (207, 92, 245, 136)
+G (91, 25, 127, 67)

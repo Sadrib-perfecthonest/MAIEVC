@@ -1,0 +1,3 @@
+263。
+Please click on the capital letter in the image that rotates counterclockwise by 263 degrees
+(111, 24, 146, 59)

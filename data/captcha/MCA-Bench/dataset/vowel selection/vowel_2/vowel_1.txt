@@ -1,0 +1,4 @@
+Please click on all vowel letters in the image.
+。
+O: (111, 187, 140, 216)
+U: (160, 26, 194, 65)

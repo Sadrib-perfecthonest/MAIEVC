@@ -1,0 +1,5 @@
+ ABD .
+Please click on ABD in turn.
+A (159, 92, 191, 138)
+B (32, 51, 68, 101)
+D (173, 39, 203, 77)

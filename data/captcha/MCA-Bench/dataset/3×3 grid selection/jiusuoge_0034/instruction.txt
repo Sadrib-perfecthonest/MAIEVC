@@ -1,0 +1,3 @@
+
+Please click the chimney in the 3x3 grid
+Position coordinates: [0, 3, 5]

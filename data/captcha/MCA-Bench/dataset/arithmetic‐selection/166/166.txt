@@ -1,0 +1,5 @@
+，166。
+Click on the three numbers in the image so that they add up to 166
+ 22: (140, 40, 182, 69)
+ 4: (116, 37, 137, 66)
+ 140: (34, 29, 95, 58)

@@ -1,0 +1,5 @@
+，307。
+Click on the three numbers in the image so that they add up to 307
+ 18: (32, 9, 71, 38)
+ 212: (127, 133, 191, 162)
+ 77: (128, 8, 170, 37)

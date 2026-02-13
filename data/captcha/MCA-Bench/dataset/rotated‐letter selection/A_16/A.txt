@@ -1,0 +1,3 @@
+5。
+Please click on the capital letter in the image that rotates counterclockwise by 5 degrees
+(153, 80, 187, 116)

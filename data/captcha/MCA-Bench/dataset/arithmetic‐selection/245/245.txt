@@ -1,0 +1,5 @@
+，245。
+Click on the three numbers in the image so that they add up to 245
+ 5: (1, 128, 21, 157)
+ 6: (138, 9, 158, 38)
+ 234: (151, 124, 215, 153)

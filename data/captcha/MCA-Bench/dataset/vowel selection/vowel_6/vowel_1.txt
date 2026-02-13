@@ -1,0 +1,4 @@
+Please click on all vowel letters in the image.
+。
+U: (41, 171, 71, 207)
+I: (102, 162, 113, 199)

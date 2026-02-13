@@ -1,0 +1,5 @@
+，312。
+Click on the three numbers in the image so that they add up to 312
+ 139: (157, 62, 218, 91)
+ 65: (7, 66, 49, 95)
+ 108: (158, 158, 219, 187)

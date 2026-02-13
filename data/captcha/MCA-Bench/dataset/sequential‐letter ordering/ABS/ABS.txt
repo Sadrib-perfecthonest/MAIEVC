@@ -1,0 +1,5 @@
+ ABS .
+Please click on ABS in turn.
+A (13, 46, 45, 92)
+B (238, 23, 270, 65)
+S (146, 15, 184, 65)

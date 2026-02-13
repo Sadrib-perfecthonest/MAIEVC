@@ -1,0 +1,5 @@
+ ABH .
+Please click on ABH in turn.
+A (254, 30, 288, 78)
+B (38, 56, 70, 98)
+H (104, 32, 144, 82)

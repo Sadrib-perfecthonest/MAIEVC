@@ -1,0 +1,5 @@
+ ACS .
+Please click on ACS in turn.
+A (30, 73, 62, 119)
+C (74, 52, 114, 96)
+S (117, 26, 155, 70)

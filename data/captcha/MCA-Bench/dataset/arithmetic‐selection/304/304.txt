@@ -1,0 +1,5 @@
+，304。
+Click on the three numbers in the image so that they add up to 304
+ 167: (14, 140, 75, 169)
+ 28: (124, 31, 166, 60)
+ 109: (94, 155, 155, 184)

@@ -1,0 +1,5 @@
+ ADM .
+Please click on ADM in turn.
+A (115, 21, 157, 73)
+D (253, 50, 295, 94)
+M (63, 26, 95, 64)

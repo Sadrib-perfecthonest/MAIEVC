@@ -1,0 +1,5 @@
+，255。
+Click on the three numbers in the image so that they add up to 255
+ 78: (24, 158, 66, 187)
+ 36: (148, 143, 190, 172)
+ 141: (73, 12, 128, 41)

@@ -1,0 +1,5 @@
+，247。
+Click on the three numbers in the image so that they add up to 247
+ 142: (148, 36, 209, 65)
+ 97: (10, 101, 52, 130)
+ 8: (40, 52, 60, 81)

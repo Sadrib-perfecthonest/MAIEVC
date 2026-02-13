@@ -1,0 +1,3 @@
+9。
+Please click on the capital letter in the image that rotates counterclockwise by 9 degrees
+(21, 29, 51, 61)

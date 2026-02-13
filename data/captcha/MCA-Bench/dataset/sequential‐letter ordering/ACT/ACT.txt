@@ -1,0 +1,5 @@
+ ACT .
+Please click on ACT in turn.
+A (44, 35, 78, 83)
+C (104, 36, 144, 80)
+T (232, 96, 260, 134)

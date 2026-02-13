@@ -1,0 +1,4 @@
+。
+Please click on all the circles in the image.
+(158, 27, 204, 73)
+(99, 32, 143, 76)

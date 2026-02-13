@@ -1,0 +1,3 @@
+
+Please click the traffic light in the 3x3 grid
+Position coordinates: [1, 3, 4]

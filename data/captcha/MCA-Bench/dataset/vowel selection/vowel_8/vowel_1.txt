@@ -1,0 +1,4 @@
+Please click on all vowel letters in the image.
+。
+O: (100, 158, 139, 199)
+I: (192, 170, 203, 204)

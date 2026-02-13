@@ -1,0 +1,5 @@
+ ACF .
+Please click on ACF in turn.
+A (26, 37, 58, 79)
+C (177, 95, 215, 139)
+F (135, 21, 169, 75)

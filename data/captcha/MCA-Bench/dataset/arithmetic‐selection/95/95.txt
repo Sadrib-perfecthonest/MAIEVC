@@ -1,0 +1,5 @@
+，95。
+Click on the three numbers in the image so that they add up to 95
+ 35: (159, 166, 201, 195)
+ 33: (154, 94, 196, 123)
+ 27: (42, 161, 84, 190)

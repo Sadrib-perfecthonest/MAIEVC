@@ -1,0 +1,5 @@
+，296。
+Click on the three numbers in the image so that they add up to 296
+ 52: (46, 168, 88, 197)
+ 18: (15, 12, 54, 41)
+ 226: (112, 13, 176, 42)

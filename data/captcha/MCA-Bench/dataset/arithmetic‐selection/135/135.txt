@@ -1,0 +1,5 @@
+，135。
+Click on the three numbers in the image so that they add up to 135
+ 50: (116, 46, 158, 75)
+ 52: (50, 122, 92, 151)
+ 33: (122, 165, 164, 194)

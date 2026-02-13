@@ -1,0 +1,5 @@
+ ABW .
+Please click on ABW in turn.
+A (69, 19, 101, 63)
+B (133, 36, 169, 84)
+W (219, 88, 271, 136)

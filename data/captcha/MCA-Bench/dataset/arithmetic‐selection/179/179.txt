@@ -1,0 +1,5 @@
+，179。
+Click on the three numbers in the image so that they add up to 179
+ 49: (27, 53, 70, 82)
+ 88: (32, 166, 74, 195)
+ 42: (46, 12, 89, 41)

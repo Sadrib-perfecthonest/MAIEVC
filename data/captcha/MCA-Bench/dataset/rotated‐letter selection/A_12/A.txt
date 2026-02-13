@@ -1,0 +1,3 @@
+198。
+Please click on the capital letter in the image that rotates counterclockwise by 198 degrees
+(151, 143, 187, 184)

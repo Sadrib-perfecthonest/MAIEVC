@@ -1,0 +1,5 @@
+，297。
+Click on the three numbers in the image so that they add up to 297
+ 163: (72, 159, 133, 188)
+ 66: (6, 153, 48, 182)
+ 68: (125, 114, 167, 143)

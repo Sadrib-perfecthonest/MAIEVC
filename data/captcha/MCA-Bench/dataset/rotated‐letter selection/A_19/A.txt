@@ -1,0 +1,3 @@
+55。
+Please click on the capital letter in the image that rotates counterclockwise by 55 degrees
+(169, 166, 206, 199)

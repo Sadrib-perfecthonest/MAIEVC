@@ -1,0 +1,5 @@
+ ABU .
+Please click on ABU in turn.
+A (17, 102, 55, 148)
+B (1, 61, 39, 113)
+U (83, 72, 125, 116)

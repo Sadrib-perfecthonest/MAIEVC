@@ -1,0 +1,5 @@
+，229。
+Click on the three numbers in the image so that they add up to 229
+ 134: (161, 130, 222, 159)
+ 72: (102, 105, 144, 134)
+ 23: (58, 159, 100, 188)

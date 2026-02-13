@@ -1,0 +1,5 @@
+，236。
+Click on the three numbers in the image so that they add up to 236
+ 90: (115, 78, 157, 107)
+ 116: (52, 145, 113, 174)
+ 30: (131, 152, 173, 181)

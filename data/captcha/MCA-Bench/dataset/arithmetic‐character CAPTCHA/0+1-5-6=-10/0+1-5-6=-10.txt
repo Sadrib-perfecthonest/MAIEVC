@@ -1,0 +1,4 @@
+
+Please calculate the result in the image
+: -10
+result: minus Ten

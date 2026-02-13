@@ -1,0 +1,3 @@
+
+Please click the bridge in the 3x3 grid
+Position coordinates: [4, 5, 8]

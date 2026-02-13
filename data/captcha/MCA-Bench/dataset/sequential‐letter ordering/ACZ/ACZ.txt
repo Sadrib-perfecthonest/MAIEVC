@@ -1,0 +1,5 @@
+ ACZ .
+Please click on ACZ in turn.
+A (68, 33, 106, 81)
+C (86, 100, 120, 144)
+Z (169, 29, 203, 75)

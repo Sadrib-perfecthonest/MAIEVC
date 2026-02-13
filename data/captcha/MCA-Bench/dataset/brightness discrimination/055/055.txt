@@ -1,0 +1,5 @@
+。
+Please click the darkest and brightest stars in the image.
+
+(143, 30, 193, 80)
+ (87, 151, 117, 181)

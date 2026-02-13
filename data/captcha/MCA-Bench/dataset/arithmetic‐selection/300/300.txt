@@ -1,0 +1,5 @@
+，300。
+Click on the three numbers in the image so that they add up to 300
+ 114: (6, 59, 67, 88)
+ 41: (85, 98, 122, 127)
+ 145: (143, 106, 204, 135)

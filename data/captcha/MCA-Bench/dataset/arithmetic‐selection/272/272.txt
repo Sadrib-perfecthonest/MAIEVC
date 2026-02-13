@@ -1,0 +1,5 @@
+，272。
+Click on the three numbers in the image so that they add up to 272
+ 49: (147, 97, 190, 126)
+ 102: (130, 161, 191, 190)
+ 121: (22, 166, 77, 195)

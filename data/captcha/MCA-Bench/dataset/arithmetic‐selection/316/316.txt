@@ -1,0 +1,5 @@
+，316。
+Click on the three numbers in the image so that they add up to 316
+ 6: (19, 68, 39, 97)
+ 227: (143, 136, 207, 165)
+ 83: (36, 30, 78, 59)

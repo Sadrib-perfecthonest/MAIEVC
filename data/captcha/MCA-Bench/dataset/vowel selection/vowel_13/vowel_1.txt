@@ -1,0 +1,4 @@
+Please click on all vowel letters in the image.
+。
+I: (145, 170, 157, 205)
+E: (31, 136, 59, 171)

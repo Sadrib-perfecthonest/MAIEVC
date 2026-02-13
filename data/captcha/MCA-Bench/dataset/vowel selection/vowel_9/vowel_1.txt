@@ -1,0 +1,4 @@
+Please click on all vowel letters in the image.
+。
+A: (150, 126, 182, 158)
+O: (167, 71, 201, 104)

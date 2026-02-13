@@ -1,0 +1,4 @@
+Please click on all vowel letters in the image.
+。
+O: (12, 169, 46, 202)
+I: (74, 155, 85, 186)

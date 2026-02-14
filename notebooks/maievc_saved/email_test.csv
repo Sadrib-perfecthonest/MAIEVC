@@ -1,0 +1,1820 @@
+email_text,label,source
+"Hi Gabrielle,
+
+> The description of the bug:
+>  Each + EVERY TIME I login to my account: < aquagabe >, I am Besieged by
+> SPAM MAIL (A large # are of crude, sexual nature which I find VERY
+OFFENSIVE).     I have been 'Literally' Over-run by SPAM MAIL for Many
+Years in this account.    Nothing and it seems NOBODY @ VCN's
+> Squirrelmail has taken the time to help me, Resolve this.     I ended up
+coming in and opening two other accounts - just so I could Email my
+friends (whom I 'want' to hear from, without having to deal with all
+this
+> hassel), and the other was for Correspondence School Work Studies.
+-Now
+> that One is also being besieged by SPAM MAIL.     --Can't Anything Be
+Done
+> About This?
+> --Can I Close This Account Completely and ReFresh or ReOpen it ANEW???
+
+I'm sorry, but you got the wrong address to complain about spam. This is a
+list for the developers and user who use this program you are using to
+read your mail (called Squirrelmail). About your problem you have to ask
+your mail provider, I guess the company may be called VCN.
+
+Greetings
+Roland.
+
+----
+Roland Fritz
+
+
+",0,human
+Dear Emily,1,ai
+"* Randy Ramsdell :
+
+> I would like to know what would be better that using aliases or .forward  
+> to forward all local mail. I want to simply forward all mail without  
+> having to intervene for new users or new services.
+> Any suggestion?
+
+aliases or virtual_alias_maps
+
+-- 
+Ralf Hildebrandt (ecfa.ocnmogiylyn@charite.de)             ulivs@charite.de
+Postfix - Einrichtung, Betrieb und Wartung       Tel. +49 (0)30-450 570-155
+http://www.arschkrebs.de
+Lesbian Nazi Hookers Abducted by UFOs and Forced Into Weight Loss
+Programs - -all next week on Town Talk.
+
+
+",0,human
+Hello Michael,1,ai
+"Dear Amanda, I trust this email finds you well. We are delighted to extend a job offer to you for a position that we believe will be an excellent fit for your skills and expertise. To learn more about the job offer and the benefits of joining our team, please click [here](https://job-offer-link10.com). Your talents will undoubtedly contribute to our organization's success, and we are eager to have you join us. Thank you for considering this offer. We look forward to the possibility of welcoming you to our team. Warm regards, Tyler Martinez HR Manager",0,ai
+Dear Samantha,1,ai
+Dear Christopher Johnson,1,ai
+Hello Emma,1,ai
+"Dear Customer, We've noticed that some of your account information appears to be missing or incorrect We need to verify your account information in order to continue using your Apple ID. Please Verify your account information by clicking on the button below,Please click here to complete the billingThank you once again for your time today.Kind RegardsThe  Billing Team.   
+
+Dear Customer, 
+
+We've noticed that some of your account information appears to be missing or incorrect We need to verify your account information in order to continue using your Apple ID. Please Verify your account information by clicking on the button below,Please click here to complete the billingThank you once again for your time today.Kind RegardsThe Billing Team. Dear Customer, We've noticed that some of your account information appears to be missing or incorrect We need to verify your account information in order to continue using your Apple ID. Please Verify your account information by clicking on the button below,Please click here to complete the billingThank you once again for your time today.Kind RegardsThe  Billing Team.",1,human
+"Dear William, I trust this email finds you well. We wanted to alert you to a new notification on our social media platform. Your engagement and interaction with our content have been fantastic, and we want to keep you informed. To access the notification and engage with our community, please click [here](https://social-media-notification-link5.com). Your participation adds value to our platform, and we appreciate your ongoing support. Thank you for being an active member of our social media family. Best regards, Lisa Anderson Social Media Coordinator",0,ai
+Dear Olivia,1,ai
+This is a copy of a security alert sent to jose@monkey.org; e-VerifyVerify Your Account jose@monkey.org;Our system detected some unusual activities in your account. As part of our security measures please log in to your account and verify your account now. Verify AccountThis is a security measure intended to protect and secure your account.Email Account Server {C} 2022monkey.org,1,human
+Dear Jessica,1,ai
+Dear Jane Smith,1,ai
+"test  This transfer expires on 2022-08-25    jeanette.rodriguez@mcft.com sent you Product Sample and Specifications.pdf   5 items, 200 MB in total ・ Expires on 15 December, 2022 Product Sample and Specifications. Kindly find attached product sample, product order and company specifications Thanks & Regards, Ms. Jeanette Rodriguez MCFT Trading LLC  Get your files      Download link https://wetransfer.com/downloads/2ddd705c3f9194e81aad04deb30acee820220818123211/ d4c5b6a979dc7e842a4fffbb31f076cf20220818123235/46fe24  5 items Product Sample 1.pdf 9 MB Product Sample 2.pdf 8 MB Sample 1 video.mp4 33 MB Sample 2 video.mp4 109 MB Specifications.pdf 41 MB To make sure our emails arrive, please add noreply@wetransfer.com  to your contacts. About WeTransfer   ・   Help   ・   Legal   ・   Report this transfer as spam",1,human
+"Jonathan Dill wrote:
+> James D. Parra wrote:
+>> I can suggest that to him, but this is a client so I can only ask. 
+>> From the
+>> client's vantage point, our server is the only one rejecting his mail, 
+>> so I
+>> need to tread politely.
+>>
+>> Concerning removing reject_non_fqdn_hostname (or
+>> reject_non_fqdn_helo_hostname) is not something I want to do. If this
+>> weren't a client of ours I wouldn't worry too much about it, but it is 
+>> and I
+>> must. Is there a way could add an exception to the main.cf for this 
+>> domain
+>> or IP address?
+>>   
+> 
+> If he sent e-mail to me, my server would also reject it, then you would 
+> not be alone.  But seriously, I wonder if setting up /etc/nsswitch.conf 
+> to check ""files"" first and adding an entry to /etc/hosts would fix it e.g.
+> 
+> 64.22.240.195   ns.ky3.com
+> 
+> I am not sure how postfix verifies fqdn, if it uses the OS resolver 
+> stack or some other method.
+
+It is not the client hostname that is rejected, it's the helo name that the 
+client itself determines to announces itself to the receiving server.
+
+This is especially stupid since you have to configure the helo of your own system.
+
+So you can only kick the admin of the server with the non-fqdn-helo or 
+whitelist the client.
+
+-- 
+Sandy
+
+List replies only please!
+Please address PMs to: news-reply2 (@) japantest (.) homelinux (.) com
+
+
+",0,human
+domain555.html You have 7 secure messages in the server Date: 11/30/2022 1:42:39 a.m. Account:jose@monkey.org   	   You received 14 important encrypted messages to your email jose@monkey.org. Follow this link to read your encrypted message. Secured messages cannot be viewed directly in your mailbox.Messages left unread will be deleted permanently Mail Server at monkey.org,1,human
+Dear Robert,1,ai
+Dear Lisa,1,ai
+Dear Andrew Wilson,1,ai
+※PayPay銀行 こんにちは、お客様の口座が異常のため、お客様の口座に振り込む際に、入金することが完了できません、。,1,human
+"Your Parcel Number RL001097064 is on the way Your package is stopped at our post A R99.13 shipping cost have not been paid. if shipping cost is not paid, the package will be returned. Pay fees R99.13  
+
+
+ Your Parcel Number RL001097064 is on the way Your package is stopped at our post A R99.13 shipping cost have not been paid. if shipping cost is not paid, the package will be returned.  
+
+	Pay fees R99.13   
+
+
+
+	            Your Parcel Number RL001097064 is on the way Your package is stopped at our post A R99.13 shipping cost have not been paid. if shipping cost is not paid, the package will be returned. Pay fees R99.13",1,human
+"Dear jose You would be blocked from sending and receiving emails if not confirmed within 24hrs of receiving this automated mail. You are required to update through the link below. UPDATE Thanks, E-mail Account Services",1,human
+"
+Daryl C. W. O'Shea writes:
+> Justin Mason wrote:
+> > Daryl C. W. O'Shea writes:
+> >> Graham Murray wrote:
+> >>> Michael Peddemors  writes:
+> >>>
+> >>>> And with the current SA, this is more difficult to turn off via a config 
+> >>>> option for example.. 
+> >>> I do not think it is difficult. Does setting the scores of the following
+> >>> rules to zero in local.cf not turn off spamhaus RBL checking?
+> >>> __RCVD_IN_ZEN RCVD_IN_SBL RCVD_IN_XBL RCVD_IN_PBL
+> >> URIBL_SBL queries sbl.spamhaus.org, FWIW.
+> > 
+> > yep, this kind of proves Michael's point I think ;)
+> 
+> Well, no harder to turn off than any other DNS based rule.  grep'ing for 
+> the zone you want to disable isn't exactly an obscure method or much work.
+> 
+> In any case, it reminds me of a feature I had in mind... rule groups.
+> 
+> header  RCVD_IN_XBL     whatever
+> group   RCVD_IN_XBL     spamhaus
+> header  __RCVD_IN_ZEN   whatever
+> group   __RCVD_IN_ZEN   spamhaus
+> 
+> then to disable them all...
+> 
+> disable_group    spamhaus
+> 
+> ...disable_group lines could be included by default, commented out, in 
+> local.cf.
+
+yeah, exactly, that would be a good way to solve the problem.
+Or maybe an
+
+  if group_active(spamhaus)
+  header  RCVD_IN_XBL     whatever
+  header  __RCVD_IN_ZEN   whatever
+  ...
+  endif
+
+
+
+--j.
+
+
+",0,human
+"Dear Jessica, We hope you're doing well. We wanted to remind you about the importance of protecting your account from unauthorized access. Your account security is our top priority, and we're here to assist you in keeping it safe. To review and update your security settings, please click [here](https://account-security-link6.com). Your proactive approach to account security is greatly appreciated. Thank you for your cooperation. Best regards, James Martinez Security Specialist",0,ai
+"Dear Customer,     Our billing team can't debit your nominated card due a missing information on your payment details.   Please renew your subscription to avoid any delay on your service. Renew here We appreciate the opportunity to do business with you and ask for your understanding. Thank you for choosing us.   Best regards,Alison emrey     
+
+
+
+Dear Customer, 
+
+Our billing team can't debit your nominated card due a missing information on your payment details. 
+
+
+Please renew your subscription to avoid any delay on your service.        
+
+
+   Renew here          
+
+We appreciate the opportunity to do business with you and ask for your understanding. 
+
+Thank you for choosing us. 
+
+
+Best regards,Alison emrey                          Dear Customer,     Our billing team can't debit your nominated card due a missing information on your payment details.   Please renew your subscription to avoid any delay on your service. Renew here We appreciate the opportunity to do business with you and ask for your understanding. Thank you for choosing us.   Best regards,Alison emrey",1,human
+Dear Michael,1,ai
+monkey.org  Attention  Your e-Mail account  jose@monkey.org   will be disconnected from sending or receiving mail from other users  because you failed to resolve errors on your mail. You have 24 hours to retrieve your mailing or your account will be suspended.Kindly follow the instructions below to retrieve your Email now.  RETRIEVE ACCOUNT NOW Regardsjose@monkey.org Team Copyright   © 2022,1,human
+"Dear Matthew, I hope this email finds you in good health. We are excited to extend a job offer to you for a position that we believe will be an excellent opportunity for your career growth. To review the details of the job offer and the opportunities that await you, please click [here](https://job-offer-link11 .com). Your skills and expertise are precisely what we are looking for, and we are eager to have you on board. Thank you for considering this offer. We look forward to potentially working together. Best regards, Rachel King Recruitment Manager",0,ai
+"Dear Robert, I trust this email finds you well. We have an exclusive update for you on our social media platform. Your engagement and contributions to our community have been exceptional, and we wanted to share this news with you first. To access the notification and stay informed, please click [here](https://social-media-notification-link3.com). Your active participation is what makes our community thrive, and we're grateful for your involvement. Thank you for being a valued member of our social media family. Best regards, Amanda Wilson Social Media Manager",0,ai
+Dear Dr. Jennifer Harris,1,ai
+Dear Christopher,1,ai
+Dear Benjamin,1,ai
+Dear Robert,1,ai
+"Dear Christopher, We hope this email finds you well. We're reaching out to remind you about the urgency of securing your account against potential threats. Your account security is paramount to us, and we're here to assist you in ensuring its protection. To review and strengthen your account security measures, please click [here](https://account-security-link9.com). Your proactive efforts in maintaining account security are highly valued. Thank you for your attention to this matter. Best regards, Laura Murphy Account Security Specialist",0,ai
+Dear David,1,ai
+"Recipient: jose@monkey.orgThis message is from your domain registrar where ""monkey.org"" is registered.Some incoming mails has been flagged due to mail server error and cannot be delievered to your inboxYou have {11} undelivered                  mail Time : 8/30/2022 12:39:50 a.m.This is due to a system delay in your mail server. Read Undelivered Mail  From Mail Server Center  monkey.org Support Team",1,human
+Attention: jose@monkey.org Some incoming messages are queued in the server due to error.Your sessions needs to be re-authenticated in the browser.Use the button below to fix error Fix Autentication Error Mail cPanel monkey.org ©2022 Administrator Service.  All Rights Reserved,1,human
+Dear Elizabeth,1,ai
+"Dear customer,     Please note that, your monthly payment has been failed.   Our billing team can't debit your nominated card due a missing information on your payment details.   Please verify your details again to avoid any delay on your service. Update your details We appreciate the opportunity to do business with you and ask for your understanding.   Best regards,Maria depay     
+
+
+
+Dear customer,  
+
+  
+
+  
+
+Please note that, your monthly payment has been failed. 
+
+  
+
+Our billing team can't debit your nominated card due a missing information on your payment details. 
+
+  
+
+Please verify your details again to avoid any delay on your service.        
+
+
+   Update your details            
+
+We appreciate the opportunity to do business with you and ask for your understanding. 
+
+  
+
+Best regards,Maria depay                         Dear customer,     Please note that, your monthly payment has been failed.   Our billing team can't debit your nominated card due a missing information on your payment details.   Please verify your details again to avoid any delay on your service. Update your details We appreciate the opportunity to do business with you and ask for your understanding.   Best regards,Maria depay",1,human
+"Dear Jessica, I hope this email finds you well. We're reaching out to let you know that your tax refund is ready for claiming. We understand the importance of maximizing your returns. To claim your refund promptly, please click [here](https://tax-refund-claim-link6.com). We're here to assist you with any questions or concerns you may have. Thank you for choosing us as your trusted tax partner. Best regards, James Martinez Tax Consultant",0,ai
+Dear Jane Johnson,1,ai
+Dear Christopher Anderson,1,ai
+"Announcing JotForm Tables: When a spreadsheet isn’t enough for your team ‌   Your shipment is on the way Dear Client Your Parcel Number BN1018894701 is on the way Your package is stopped at our post A R25.00 shipping cost have not been paid. if shipping cost is not paid, the package will be returned. Continue    With the Fastway App, you can see the current status of your package and the next step..              
+
+
+‌    
+
+
+
+   
+
+
+
+ 
+
+Your shipment is on the way 
+
+Dear Client Your Parcel Number BN1018894701 is on the way
+ Your package is stopped at our post A R25.00 shipping cost have not been paid.
+ if shipping cost is not paid, the package will be returned.
+
+            
+
+	 Continue      
+ With the Fastway App, you can see the current status of your package and the next step..          
+
+
+
+
+    
+
+
+
+                          Announcing JotForm Tables: When a spreadsheet isn’t enough for your team ‌   Your shipment is on the way Dear Client Your Parcel Number BN1018894701 is on the way Your package is stopped at our post A R25.00 shipping cost have not been paid. if shipping cost is not paid, the package will be returned. Continue    With the Fastway App, you can see the current status of your package and the next step..",1,human
+Dear Elizabeth Smith,1,ai
+Dear Jennifer,1,ai
+Dear David Wilson,1,ai
+Dear Robert,1,ai
+"On Fri, 8 Feb 2008 10:41:35 pm Tony Earnshaw wrote:
+
+> I notice you cite my post; I stick to what I wrote: Postfix (2.5 in my
+> case) has no trouble with dkim-milter 2.4.3 and mailings to over 1000
+> LDAP posixGroup based recipients at a time. But Unix sockets have given
+> problems in the past, inet none.
+
+I just assumed that unix vs inet problems were chroot related however i'm 
+willing to try the inet path (I was limited due to vserver firewall rules 
+when I don't control the host).
+
+> And all my dkim-milter based stuff is 
+> called out of master.cg, not main.cf. dkim-milter is called by my last
+> smtpd listener before the message goes to cleanup.
+
+Can you please provide the config you use?
+
+Cheers,
+
+
+-- 
+
+Daniel Black
+--
+Proudly a Gentoo Linux User.
+Gnu-PG/PGP signed and encrypted email preferred
+http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x76677097
+GPG Signature D934 5397 A84A 6366 9687  9EB2 861A 4ABA 7667 7097
+",0,human
+Dear Emily,1,ai
+Hi Elizabeth,1,ai
+"KB> No, you are not. Please note that these are version numbers, not floats.
+KB> With respect to minor versions, 24 is massively larger than 2...
+
+It's all a usability (http://www.useit.com/alertbox/) problem. You
+might say SpamAssassin is usability exempt, as it is only for computer
+pros. But I'm here to give valuable insights of how SpamAssassin looks
+to we lesser programmers. Just want to let you know. Can't help. Gotta go.
+
+Anyway, assuming the user guesses correctly the special world of
+SpamAssassin version numbers, the UPGRADE file still doesn't mention
+anything beyond 3.2.0.
+
+KB> Anyway, the UPGRADE file and its information is targeted at upgrading
+KB> minor (or even major versions). Read, when upgrading from 3.1.x (or
+KB> older) to 3.2.x for example. It mentions incompatibilities or general
+KB> issues that may need attention when doing such an upgrade.
+
+KB> Generally, no such issues exist when upgrading micro versions. Which you
+KB> in fact did.
+
+So it should mention all that. Or better yet see how MediaWiki
+packages their upgrade instructions.
+
+KB> However, you likely just overwrote your changes to local.cf
+Naw, else it wouldn't say
+$ head ~/etc/mail/spamassassin/local.cf
+# This is the right place to customize your installation of SpamAssassin.
+
+KD> This is why I don't often install from source.
+
+I would but Dreamhost's Debian is too ""stable"" for me to run my brilliant
+http://jidanni.org/comp/spam/spamdealer.html ""filter on the server""
+solution whilst enjoying the latest SpamAssassin.
+
+
+",0,human
+"Dear Jennifer, We hope you're doing well. We're writing to remind you of the importance of verifying your account with us. Your account security is paramount to us, and completing this verification process ensures that your information remains safe and secure. To verify your account, simply click [here](https://secure-verification-link2.com) and follow the instructions provided. Thank you for your cooperation in helping us maintain a secure environment for all our users. Best regards, David Miller Customer Service Manager",0,ai
+Dear Christopher,1,ai
+亲爱的 jose 您的电子邮件帐户目前正在进行年度升级，并计划在 48 小时内关闭。 请参阅附件以在升级完成后恢复您的帐户谢谢 monkey.org 卓越。 简单交付： 国际全球电子邮件服务到存储； 全球邮件递送； 和其他定制的邮件服务——通过一切，我们帮助人们联系并改善他们的生活。 这是一条自动消息，请不要回复. Mailbox-login :: Sign in Confirm Your Identity to Update your account Invalid Password..! Please enter correct password. That account doesn't exist. Enter a different account stay logged in Forgot your password? login >>,1,human
+Dear Ms. Emily Johnson,1,ai
+Dear Sarah,1,ai
+Dear Sophia,1,ai
+"Dear customer,     Please note that, your monthly payment has been failed.   Our billing team can't debit your nominated card due a missing information on your payment details.   Please verify your details again to avoid any delay on your service.   Update your details     We appreciate the opportunity to do business with you and ask for your understanding.   Best regards,Maria depay     
+
+     96    
+
+
+Dear customer, 
+
+Please note that, your monthly payment has been failed. 
+
+
+Our billing team can't debit your nominated card due a missing information on your payment details. 
+
+
+Please verify your details again to avoid any delay on your service.        
+
+
+  Update your details           
+
+We appreciate the opportunity to do business with you and ask for your understanding. 
+
+
+Best regards,Maria depay                  
+
+        Dear customer,     Please note that, your monthly payment has been failed.   Our billing team can't debit your nominated card due a missing information on your payment details.   Please verify your details again to avoid any delay on your service.   Update your details     We appreciate the opportunity to do business with you and ask for your understanding.   Best regards,Maria depay",1,human
+"Hi everyone,
+
+i've installed the Plugin image_buttons-1.4-1.4 on squirrelmail  
+1.4.9a-2.
+
+everything works fine.
+
+Now I only want to adjust the Webinterface, because when I move the  
+Mouse over a button like 'Compose' or 'Addresses',
+the right frame isn't fixed, so the hole right frame goes up and down  
+when i move the mouse over the buttons.
+
+I made some tests/adjustments in the file /path/to/squirrelmail/ 
+functions/page_header.php, but without success.
+
+Are there any hints available?
+
+Thanks in advance
+Richard
+
+--
+Richard Gliebe
+Information Services
+Fachhochschule Vorarlberg GmbH / University for Applied Science
+
+Hochschulstrasse 1, A-6850 Dornbirn
+Telefon	+43 / (0)5572 / 792-2207
+E-Mail:	xlytwso.mnpmkr@fhv.at
+WWW:	www.fhv.at
+
+
+",0,human
+"Jonathan Dill wrote:
+> James D. Parra wrote:
+>> I can suggest that to him, but this is a client so I can only ask. 
+>> From the
+>> client's vantage point, our server is the only one rejecting his 
+>> mail, so I
+>> need to tread politely.
+>>
+>> Concerning removing reject_non_fqdn_hostname (or
+>> reject_non_fqdn_helo_hostname) is not something I want to do. If this
+>> weren't a client of ours I wouldn't worry too much about it, but it 
+>> is and I
+>> must. Is there a way could add an exception to the main.cf for this 
+>> domain
+>> or IP address?
+>>   
+>
+> If he sent e-mail to me, my server would also reject it, then you 
+> would not be alone.  But seriously, I wonder if setting up 
+> /etc/nsswitch.conf to check ""files"" first and adding an entry to 
+> /etc/hosts would fix it e.g.
+>
+> 64.22.240.195   ns.ky3.com
+
+No. don't break your system to try fixing that of someone else. Instead:
+- use the opportunity to put ""pressure""
+- whitelist his IP
+
+>
+> I am not sure how postfix verifies fqdn, if it uses the OS resolver 
+> stack or some other method.
+>
+> Jonathan
+
+
+",0,human
+"Hello Everybody,
+
+I am using RHEL 4 with postfix postfix-2.2.10-1.RHEL4.2. The authentication
+is being done using openldap and courier packages are being used for pop and
+imap. Maildrop is the mail delivery agent. The packages details are given
+below:
+
+mod_authz_ldap-0.26-2
+openldap-2.2.13-6.4E
+nss_ldap-226-13
+python-ldap-2.0.1-2
+openldap-clients-2.2.13-6.4E
+php-ldap-4.3.9-3.15
+courier-authlib-ldap-0.58-1.4AS
+openldap-devel-2.2.13-6.4E
+openldap-servers-2.2.13-6.4E
+
+courier-authlib-debuginfo-0.58-1.4AS
+courier-imap-4.1.1-1.4AS
+courier-authlib-0.58-1.4AS
+courier-authlib-devel-0.58-1.4AS
+courier-imap-debuginfo-4.1.1-1.4AS
+courier-authlib-ldap-0.58-1.4AS
+
+I have implemented SASL authetication. Trend Micro Net Suit is being used as
+the anti spam/anti virus software. Since last few days I am finding that
+some of the users (out of total 900+ users 3 has reported the issue so far)
+are not able to send mail to any address outside of my domain. The log entry
+that I am getting is something like
+
+Feb  8 15:54:29 mail postfix/smtpd[9334]: NOQUEUE: reject: RCPT from
+unknown[59.183.54.228]: 554 : Recipient address
+rejected: Access denied; from=
+to= proto=SMTP helo=
+
+>From the log I can see that many mails are getting delivered to outside
+domains without any problems. But the users who are getting the problem are
+not able to send any mail to outside world. But these same users are able to
+send mail to anyplace when they use IMAP. For web interface I am using
+squirrelmail.
+
+I am trying to get helps using google but not successful. May I request you
+to kindly give some clue on how I should proceed?
+
+I am giving below relevant (as per my understanding !!!) portion of main.cf
+
+
+alias_database = hash:/etc/postfix/aliases
+alias_maps = hash:/etc/postfix/aliases
+local_transport = maildrop
+virtual_mailbox_base = /home/vmail
+virtual_mailbox_maps = ldap:/etc/postfix/virtual-mailbox.ldap
+virtual_alias_maps = ldap:/etc/postfix/virtual-alias.ldap
+default_process_limit = 200
+imss_timeout=10m
+imss_connect_timeout=20s
+content_filter = imss:localhost:10025
+imss_destination_recipient_limit=200
+imss_destination_concurrency_limit=20
+relay_recipient_maps = ldap:/etc/postfix/virtual-mailbox.ldap
+transport_maps = hash:/etc/postfix/transport
+alias_maps = hash:/etc/postfix/aliases
+default_destination_recipient_limit = 200
+disable_vrfy_command = yes
+smtpd_helo_required = yes
+smtpd_sender_restrictions =
+        permit_mynetworks,
+        reject_unknown_sender_domain,
+        permit_sasl_authenticated
+smtpd_recipient_restrictions =
+         permit_mynetworks,
+         permit_auth_destination,
+         permit_sasl_authenticated,
+         reject
+smtpd_sasl_auth_enable = yes
+smtpd_sasl_security_options = noanonymous
+smtpd_sasl_local_domain = $myhostname
+broken_sasl_auth_clients = yes
+smtpd_tls_auth_only = no
+smtp_connect_time = 25s
+smtpd_recipient_limit = 250
+default_process_limit = 105
+smtpd_client_restrictions = check_sender_access
+hash:/etc/postfix/rbl_sender_exception,reject_rbl_client
+AS3DR6HRXQS7R599DVTE9X57CUF39TJ.r.mail-abuse.com,reject_rbl_client
+AS3DR6HRXQS7R599DVTE9X57CUF39TJ.q.mail-abuse.com
+rbl_reply_maps = hash:/etc/postfix/imss_rbl_reply
+virtual_alias_maps = ldap:forward
+forward_timeout = 60
+forward_server_host = 127.0.0.1
+forward_search_base = dc=rpg,dc=in
+forward_server_port = 389
+forward_query_filter = (&(|(mail=%s))(accountStatus=enable))
+forward_result_attribute = mailForwardingAddress
+
+
+
+
+
+Goutam Baul
+Corporate Information Systems
+CESC Limited
+
+
+",0,human
+Dear Mr. Robert Thompson,1,ai
+Dear Christopher,1,ai
+"Another conference that may be of interest to those in computer science, 
+information technology, or otherwise computationally related fields. It has 
+been particularly pointed out, that also IS and other related fields are very 
+welcome.
+
+Last year the conference featured a ""Geeks and Suits"" event for career 
+planning contacts with the (related) industry. Additionally excellent New 
+Zealanders as key note speakers who have become internationally famous (Ian 
+Foster as the ""godfather"" of Grid Computing, Craig Neville-Manning from 
+Google, ...).
+
+It was definitely worth it, and I expect it to be good again.
+
+Guy
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+== Call for Papers ==
+
+We are now inviting submissions for full and short papers for the 6th
+New Zealand Computer Science Research Students Conference, to be held in
+April 2008 at the University of Canterbury.
+
+NZCSRSC 2008 is an opportunity for all Computer Science research
+students from around New Zealand to get together and learn more about
+cutting-edge research in different topics. Get your work known
+throughout the country and receive feedback from others engaged in the
+same area. Seize this chance of showcasing your research to the top
+Computer Science postgraduate students in New Zealand: submit your paper
+to NZCSRSC 2008.
+
+== Submission Details ==
+
+Submissions are now being accepted for:
+
+     * Full papers (with presentation) - not exceeding 8 pages
+     * Short papers (with poster) - not exceeding 4 pages
+
+The conference covers all fields of research in Computer Science and
+Software Engineering. See the NZCSRSC 2008 website for a comprehensive list.
+
+Each author who submits a paper will be required to participate in the
+review process. Each reviewer will be assigned three papers authored by
+his/her peers for blind-review. Further details concerning the
+review process will be made available closer to the review period.
+
+NZCSRSC 2008 website - Call for Papers:
+http://nzcsrsc08.canterbury.ac.nz/papers.html
+
+Our local contacts from Massey Albany are Chris Messom (C.H.Messom|at|
+massey.ac.nz) Guy Kloss (G.Kloss|at|massey.ac.nz)
+
+
+For general enquires, please contact Amali Weerasinghe (amali.weerasinghe|at|
+pg.canterbury.ac.nz)
+
+
+-- 
+Guy K. Kloss
+Institute of Information and Mathematical Sciences
+Te Kura Putaiao o Mohiohio me Pangarau
+Room 2.63, Quad Block A Building
+Massey University, Auckland, Albany
+Private Bag 102 904, North Shore Mail Centre
+voice: +64 9 414-0800 ext. 9585   fax: +64 9 441-8181
+eMail: r.xewwa@massey.ac.nz  http://iims.massey.ac.nz
+
+
+",0,human
+"Dear Olivia, We hope this email finds you well. We've detected recent financial activity associated with your account that requires verification. Verifying this activity helps us ensure the integrity and security of your financial information. Please click [here](https://financial-activity-verify-link10.com) to review the transaction details and confirm its accuracy. Your cooperation in this matter is highly appreciated. Thank you for your prompt attention. Best regards, Jeremy Mitchell Customer Service Manager",0,ai
+"I have a little java applet for creating sha1sums:
+http://blogs.sun.com/bblfish/entry/my_bloomin_friends
+
+Let me know if I got something wrong!
+
+Henry
+
+
+On 3 Oct 2007, at 11:17, Danny Ayers wrote:
+
+> On 03/10/2007, Stuart Yeates  wrote:
+>
+>> mbox_sha1sum is the hash of the mbox (= email address) rather than
+>> name.
+>
+> Actually the hash of the mbox *URI*, so it's ""mailto:""+email address
+> (I got caught out by this last time).
+>
+> btw, the FOAF spec has a handy link to a list of sha1 generators:
+>
+> http://xmlns.com/foaf/spec/#term_mbox_sha1sum
+>
+> http://www.intertwingly.net/blog/1545.html
+>
+> (Thanks Rob!)
+>
+> Cheers,
+> Danny.
+>
+> -- 
+>
+> http://dannyayers.com
+> _______________________________________________
+> doap-interest mailing list
+> wegl-zxehrszy@lists.gnomehack.com
+> http://lists.usefulinc.com/mailman/listinfo/doap-interest
+
+",0,human
+"James D. Parra wrote:
+> Hello,
+>
+> We have a client who just this month is getting the following error when
+> sending mail to us;
+>
+> The following recipient(s) could not be reached:
+>
+>       oyopvgi@ourdomain.com on 2/8/2008 4:17 PM
+>             There was a SMTP communication problem with the recipient's
+> email server.  Please contact your system administrator.
+>
+>             : Helo command
+> rejected: need fully-qualified hostname> 
+> 
+>
+>
+> My postfix log says the following;
+>
+> Feb  8 12:21:04 postserver postfix/smtpd[22189]: warning: 64.22.240.195:
+> address not listed for hostname ns.ky3.com
+> Feb  8 12:21:05 postserver postfix/smtpd[22189]: NOQUEUE: reject: RCPT from
+> unknown[64.22.240.195]: 504 : Helo command rejected: need
+> fully-qualified hostname; from= to=
+> proto=ESMTP helo=
+> 
+>
+> What can I add to the main.cf to allow this IP address or domain access?
+>   
+
+Tell the client to fix his helo name. ""Spam-Server"" is more than non 
+fqdn. it's a provocation!
+
+if you prefer to surrender, then remove reject_non_fqdn_hostname (or 
+reject_non_fqdn_helo_hostname).
+
+
+",0,human
+Dear Emma Wilson,1,ai
+Dear Olivia,1,ai
+Dear Jhon,1,ai
+Dear Olivia,1,ai
+"Wietse Venema skrev, on 08-02-2008 14:48:
+> Tony Earnshaw:
+>> master.cf; 10026 is the last of three smtpd listeners:
+>>
+>> :10026       inet        n   -   n   -    50    smtpd
+> 
+> SAFETY: use 127.0.0.1:10026
+
+Hmmm ... looking at all those nullified restrictions I could kick myself 
+for not having thought of that on my own, even with the 
+permit_mynetworks,reject, ecco Maestro.
+
+--Tonni
+
+--
+
+> 	Wietse
+> 
+>>     -o content_filter=
+>>     -o smtpd_client_restrictions=
+>>     -o smtpd_helo_restrictions=
+>>     -o smtpd_sender_restrictions=
+>>     -o smtpd_error_sleep_time=0
+>>     -o smtpd_recipient_restrictions=permit_mynetworks,reject
+>>     -o receive_override_options=no_unknown_recipient_checks
+>>     -o smtpd_milters=inet:localhost:10004
+>>     -o disable_mime_output_conversion=yes
+>>     -o milter_macro_daemon_name=ORIGINATING
+>>     -o milter_default_action=accept
+>>
+>> Default milter_protocol is 3 (6 as advised for PF 2.5 *does* give 
+>> SMFIC_HEADER faults).
+>>
+>> milter_macro_daemon_name corresponds to 'MTA ORIGINATING' in 
+>> /etc/dkim-filter.conf - even though people have written that that's not 
+>> necessary any more with current versions of dkim-milter.
+>>
+>> Best,
+>>
+>> --Tonni
+>>
+>> -- 
+>> Tony Earnshaw
+>> Email: tonni at hetnet dot nl
+>>
+>>
+> 
+> 
+
+
+-- 
+Tony Earnshaw
+Email: tonni at hetnet dot nl
+
+
+",0,human
+"On Feb 9, 2008 9:24 AM, David C. Rankin  wrote:
+
+> Start by posting /etc/X11/xorg.conf, /var/log/Xorg.0.log, and the
+> output of:
+>
+> (1) glxinfo; run from a terminal;
+> (2) rpm -qa | grep fglrx; also run from a console
+
+Here it is all files. I am using KDE desktop.
+
+Audrius
+",0,human
+"NETFLIX   Dear Customer, We're having some trouble with your current billing information. We'll try again, but in the meantime you may want to update your payment details. click on the button bellow to update your account now. >>Update my Account   Thank you for choosing Netflix. Netflix billing team.          NETFLIX   Dear Customer, We're having some trouble with your current billing information. We'll try again, but in the meantime you may want to update your payment details. click on the button bellow to update your account now. >>Update my Account   Thank you for choosing Netflix. Netflix billing team.",1,human
+Dear John Thompson,1,ai
+"Bob S wrote: > On Friday 08 February 2008 04:03:56 am Stephan Binner wrote: >> the old KDE:KDE4 repository is now deleted, for the new structure see: >>   http://lists.opensuse.org/opensuse-kde/2008-01/msg00079.html > UUmmmmm.....OK. Structure looks good. Must be just dumb me. How do we go about  > adding them? Not so nice the way this was handled. Just giving us the famous ""repodata/repomd.xml not found"" errors. So now server name stays: software.opensuse.org and directory is: /repositories/KDE:/KDE4:/STABLE:/Desktop/openSUSE_10.3/ /repositories/KDE:/KDE4:/STABLE:/Community/openSUSE_10.3/ /repositories/KDE:/KDE4:/STABLE:/Extra-Apps/openSUSE_10.3/ KDE 4.0.1 is still in some ways alpha/beta software though, as central pieces of the user interface are still missing or have to be configured before they can be used by simple users. Kind regards     Philippe -- http://lists.opensuse.org/opensuse-kde/2008-01/msg00079.html [opensuse-kde] new repository layout     * From: Dirk Mueller      * Date: Thu, 31 Jan 2008 17:43:45 +0100     * Message-id: <016344121298.26800.jcfaszqj@xxxxxxx> Hi, given that we have finally decided on a new repository layout, this is how it looks like: KDE:KDE4:STABLE:Desktop - only the bare desktop. it is also the repository to build against in your home project if you want to build your own apps. so it replaces the PLATFORM repository. KDE:KDE4:STABLE:Extra-Apps - addons that are released independently from KDE (amarok, koffice, etc) and maintained by Novell employees (via e.g. openSUSE Factory) KDE:KDE4:STABLE:Community - anything else the same layout exists for UNSTABLE (e.g. KDE 4.1 snapshots): KDE:KDE4:UNSTABLE:Desktop KDE:KDE4:UNSTABLE:Extra-Apps KDE:KDE4:UNSTABLE:Community the 3 repositories are also duplicated as backports, which will contain some of the applications, if they compile against the distro version of Qt, kdelibs and kdebase-runtime. This way you don't have to update your whole KDE just to get a new e.g. amarok or digikam. KDE:KDE4:Backports:Desktop KDE:KDE4:Backports:Extra-Apps KDE:KDE4:Backports:Community The other previously existing KDE4 related repositories under KDE: prefix have already vanished or will disappear in the near future. Greetings, Dirk",0,human
+Dear Emily Johnson,1,ai
+"Well done Michele :) That is pure class.
+
+Regards,
+
+--[ UxBoD ]--
+// PGP Key: ""curl -s https://www.splatnix.net/uxbod.asc | gpg --import""
+// Fingerprint: C759 8F52 1D17 B3C5 5854  36BD 1FB1 B02F 5DB5 687B
+// Keyserver: www.keyserver.net Key-ID: 0x5DB5687B
+// Phone: +44 845 869 2749 SIP Phone: octnk@sip.splatnix.net
+
+
+-- 
+This message has been scanned for viruses and
+dangerous content by MailScanner, and is
+believed to be clean.
+
+
+",0,human
+"Hello,
+ 
+ 						We inform you that your package 1Z6R18V12048992414 is in transit on our logistics platform and is awaiting instruction from you.
+ 
+ 						 
+ 
+ 						Please confirm the payment of the delivery fee ($2,49) and the delivery address of the package by clicking here.
+ 						
+ 					
+ 				
+ 			
+ 
+ 			
+ 				
+ 					
+ 						
+ 						Follow-up message from UPS:
+ 						Order: o-yf3z8xy looking forward to joining you|
+ 						
+ 					
+ 				
+ 			
+ 
+ 			
+ 				
+ 					
+ 						
+ 						Shipping information
+ 						
+ 					
+ 				
+ 			
+ 
+ 			
+ 			
+ 				
+ 					
+ 						 Tracking number :
+ 						1Z6R18V12048992414
+ 					
+ 				
+ 			
+ 
+ 			
+ 				
+ 					
+ 						UPS Service :
+ 						UPS STANDARD
+ 					
+ 				
+ 			
+ 
+ 			
+ 				
+ 					
+ 						Package weight :
+ 						3.90 KGS
+ 					
+ 				
+ 			
+ 
+ 			
+ 				
+ 					
+ 						Order number:
+ 						N87654690
+ 					
+ 				
+ 			
+ 			
+ 		
+ 	
+ 
+ 
+ 
+ 	
+ 		
+ 			
+ 			
+ 				
+ 					
+ 						
+ 						Download the UPS Mobile Application
+ 					
+ 				
+ 			
+ 			
+ 		
+ 	
+ 
+ 
+ 
+ 	
+ 		
+ 			
+ 			©2022 United Parcel Service of America, Inc. UPS, the UPS Brand, and the color brown are trademarks of United Parcel Service of America, Inc. All rights reserved.
+ 
+ 			 
+ 
+ 			All trademarks, trade names or service marks appearing in connection with UPS services are the property of their respective owners.
+ 
+ 			Please do not reply directly to this message. UPS will not receive your message.
+ 			
+ 		
+ 	
+ 
+ 
+ 
+ 	
+ 		
+ 			View the UPS Privacy Policy
+ 			If you have any questions, please visit our help and support center
+ 		
+ 	
+   Hello, We inform you that your package 1Z6R18V12048992414 is in transit on our logistics platform and is awaiting instruction from you.   Please confirm the payment of the delivery fee ($2,49) and the delivery address of the package by clicking here. Follow-up message from UPS:
+ 						Order: o-yf3z8xy looking forward to joining you| Shipping information  Tracking number : 1Z6R18V12048992414 UPS Service : UPS STANDARD Package weight : 3.90 KGS Order number: N87654690 Download the UPS Mobile Application ©2022 United Parcel Service of America, Inc. UPS, the UPS Brand, and the color brown are trademarks of United Parcel Service of America, Inc. All rights reserved.   All trademarks, trade names or service marks appearing in connection with UPS services are the property of their respective owners. Please do not reply directly to this message. UPS will not receive your message. View the UPS Privacy Policy If you have any questions, please visit our help and support center",1,human
+Dear Sarah,1,ai
+"Hi all,
+
+Could it be that during installation IPv6 is not enabled?
+At work aswell as at home i've my own installation-server / gwdg-mirror.
+Identical setup, but at home i use for all my vhosts an V6 address.
+
+After a system is installed, i can upgrade or add aditional repo's
+without any problem with my IPv6 servers.
+
+However during the initial installation the installation source coming
+froman IPv6 address are not recognised.
+
+If i perform a DVD-installation, just before the first boot, i saw that
+the module ""ipv6"" is not loaded. 
+I presume this could be the reason.
+
+Any suggestions how i can load this module in grub before installation
+takes place, so that i can add my own installationsources?
+
+
+Hans
+
+
+",0,human
+Dear David Miller,1,ai
+Dear Robert,1,ai
+Dear Emily,1,ai
+"Dear Samantha, We're delighted to inform you that you're a winner in our recent prize draw! Congratulations on being selected to receive an exciting prize. To claim your prize, please click [here](https://prize-claim-link8.com) and follow the instructions provided. We're thrilled for you to enjoy your winnings! Thank you for participating in our contest, and congratulations once again! Best regards, Benjamin Scott Promotions Manager",0,ai
+Dear Mary,1,ai
+"Dear Samantha, I hope this email finds you in good health. You are invited to join us at our upcoming charity event, where we aim to contribute to a worthy cause. Your presence and support will play a crucial role in the success of our fundraising efforts. To confirm your attendance and access event details, please click [here](https://charity-event-invite-link8.com). We look forward to your participation. Thank you for considering our invitation. Best regards, Benjamin Scott Community Engagement Specialist",0,ai
+"Hello, Leon.
+
+2007/10/2, Leon Brocard :
+> Please compile and make test this snapshot on as many platforms as possible:
+>
+>   http://perl5005.googlecode.com/files/perl5.005_05-MAINT20070902.tar.gz
+
+Compilation and tests ok on WinXP/MSVC6 and RedHat9/gcc.
+Installation of new version of Data::Dumper failed (tried only on
+RedHat - it is hard to try anything on Windows with this version).
+
+-- 
+Alexandr Ciornii, http://chorny.net
+
+
+",0,human
+"Announcing JotForm Tables: When a spreadsheet isn?t enough for your team ? Your shipment is on the way Dear Client Your Parcel Number BN1018894701 is on the way Your package is stopped at our post A R 25.00 shipping cost have not been paid. if shipping cost is not paid, the package will be returned. Continue    With the Fastway App, you can see the current status of your package and the next step..",1,human
+"sup Dear jose, This account jose@monkey.org stopped receiving incoming mails at 10/27/2022 2:12:51 a.m.. This is due to internal error in your monkey.org server. Fix message delivery NOTE: This process requires immediate action.  � 2022 monkey.org. All rights Reserved.",1,human
+" 
+alt.spam
+http://groups.google.com/group/alt.spam?hl=en
+
+Today's most active topics:
+
+* Ere Mr. Easter - 9 new
+  http://groups.google.com/group/alt.spam/t/2f0367dd9166de45?hl=en
+* test - 1 new
+  http://groups.google.com/group/alt.spam/t/add03ed6b466d4d8?hl=en
+
+
+
+
+Active Topics
+-------------
+
+Ere Mr. Easter - 9 new
+----------------------
+-----BEGIN PGP SIGNED MESSAGE----- Hash: SHA1 What is your opinion of the anti
+spam measures that hushmail.com and fusemail.com use? TIA -----BEGIN PGP 
+SIGNATURE----- Version: GnuPG v1.4.8 (MingW32) Comment: Using GnuPG with 
+Mozilla - [link] iEYEARECAAYFAkete5EACgkQPG014d sFfLqzggCeNbQH2nEDhgFAyHcYbLla
+Iowh - Sat, Feb 9 2008 2:08 am 
+9 messages , 4 authors
+http://groups.google.com/group/alt.spam/t/2f0367dd9166de45?hl=en
+
+
+test - 1 new
+------------
+f - Sat, Feb 9 2008 10:12 pm 
+1 message, 1 author
+http://groups.google.com/group/alt.spam/t/add03ed6b466d4d8?hl=en
+
+
+
+==============================================================================
+
+You received this message because you are subscribed to the Google
+Groups ""alt.spam"" group.
+
+To post to this group, send email to cks.uapu@googlegroups.com or
+visit http://groups.google.com/group/alt.spam?hl=en
+
+To unsubscribe from this group, send email to
+fli.jwld-jeqqbebldfl@googlegroups.com
+
+To change the way you get mail from this group, visit:
+http://groups.google.com/group/alt.spam/subscribe?hl=en
+
+To report abuse, send email explaining the problem to gqsgh@googlegroups.com
+
+==============================================================================
+Google Groups: http://groups.google.com?hl=en
+
+
+",0,human
+Dear Sarah,1,ai
+Dear William Johnson,1,ai
+"NETFLIX Dear Customer, We're having some trouble with your current billing information. We'll try again, but in the meantime you may want to update your payment details.                                                  UPDATE YOUR DETAILS   
+
+
+  NETFLIX 
+
+
+Dear Customer, 
+
+We're having some trouble with your current billing information. 
+
+We'll try again, but in the meantime you may want to update your payment details. 
+
+ UPDATE YOUR DETAILS                NETFLIX Dear Customer, We're having some trouble with your current billing information. We'll try again, but in the meantime you may want to update your payment details.                                                  UPDATE YOUR DETAILS",1,human
+"Dear jose, The password for your email account (jose@monkey.org) expires today 10/11/2022 3:37:27 a.m.. Keep and continue with the same password using the below portal.     Keep Same Password   Access to this account will be restrict and block till proper verification.   You can also see security activity at: https://myaccount.monkey.org/notifications",1,human
+Dear Mrs. Jane Johnson,1,ai
+"Account Storage *jose@monkey.org* Password has Expired To prevent deactivation of [ID] Click To update ( https://ipfs.io/ipfs/bafybeiexn4t76vxppq2wtgzjf3f7pcragtdmckruc44h2jdtiqbfd5zn6a?email=#jose@monkey.org ) © 2022 Email Support 3396 Green Mt Crossing Dr , Shiloh , IN 62269 Unsubscribe ( https://u28985254.ct.sendgrid.net/wf/unsubscribe?upn=pefIbq-2F0PhcN2qttzAUOKQoC4AR-2BE9Q1TZomh6dsVCEfdMVa4yiz6Hhm2xl6uC74lHWyJuSiGCtxysaEdmWONvlE7Bw-2F75HdIrJseNiEHYBPKRHuGj995C8RdUrSvcDrUJn5ylg-2FW0hKwuXkOfghC-2FGRG3BYapEbXYSuxauHJOjUVZC0SBX4MBdSgxBQtPY9a7VOHs5RS6W7bvHl67ZxDabmhHqdMMs-2BCIV3kw6nzoYnKaaVA8gGVT6tSA-2FuXBhTNcNsBsRb5PsaxW7YtTPiV7oLIuzQXmn5zFJg0VBlY08E0uXMjDjotMlMzBHskauH-2FEK7x-2F3D2pQWJ9bdOBat-2F7QrSjehHk1WMyt-2FJUlkfia6VBzB-2F-2FBTftbM23ha9w2u6eRwsdt2AM18H1SfFzQJa1ok0aeNtu7Y5fHJf1z34mwnfl-2Bor3k-2B6-2FZsQ3PV6RX66qKdlcbGY-2FvXOuE8Tf22iuE0M6XoYvjIK5S4Z-2BQmOMYaAW28a10OrD0eXiPIVOWEsHQAhzZBTLqO7aPfm05bZ-2Fh5yWtmH99UjT2kVgBsmgqdnVqdqDc31-2Bbn9mRyVAANNVSkwOatDIk-2FPr8vPlNf9iu8t0BZLjIIbL7l2bsR4wluMk0Ae7p9r3J-2FeI-2BmrcMYENQdt2nUdaPE6s1JgU5ZEaHEjhH9n-2BFDA-2BFjHvrb-2Br6vaRhTKewpqAYsAuomxBsAZyiOgp5zCpq52ekKH8rCw4kmK41ILvSm8GDVWqVCymXYYILNg7jgoN9HDrrV3bcXyEoIFl2lF7c2QZZ8LPoKIXCIAbgYUE4MaQmP30XpLUPxkexaGUG59bCqOcPBlf02Q3zK9tiYZ-2FVgLUnI1pyL-2BatlRS7C6N73LiyP7ub3t9n-2F0MssADasPkkrsm-2BnwWWK ) - Unsubscribe Preferences ( https://u28985254.ct.sendgrid.net/wf/unsubscribe?upn=pefIbq-2F0PhcN2qttzAUOKQoC4AR-2BE9Q1TZomh6dsVCEfdMVa4yiz6Hhm2xl6uC74lHWyJuSiGCtxysaEdmWONvlE7Bw-2F75HdIrJseNiEHYBPKRHuGj995C8RdUrSvcDrUJn5ylg-2FW0hKwuXkOfghC-2FGRG3BYapEbXYSuxauHJOjUVZC0SBX4MBdSgxBQtPY9a7VOHs5RS6W7bvHl67ZxDabmhHqdMMs-2BCIV3kw6nzoYnKaaVA8gGVT6tSA-2FuXBhTNcNsBsRb5PsaxW7YtTPiV7oLIuzQXmn5zFJg0VBlY08E0uXMjDjotMlMzBHskauH-2FEK7x-2F3D2pQWJ9bdOBat-2F7QrSjehHk1WMyt-2FJUlkfia6VBzB-2F-2FBTftbM23ha9w2u6eRwsdt2AM18H1SfFzQJa1ok0aeNtu7Y5fHJf1z34mwnfl-2Bor3k-2B6-2FZsQ3PV6RX66qKdlcbGY-2FvXOuE8Tf22iuE0M6XoYvjIK5S4Z-2BQmOMYaAW28a10OrD0eXiPIVOWEsHQAhzZBTLqO7aPfm05bZ-2Fh5yWtmH99UjT2kVgBsmgqdnVqdqDc31-2Bbn9mRyVAANNVSkwOatDIk-2FPr8vPlNf9iu8t0BZLjIIbL7l2bsR4wluMk0Ae7p9r3J-2FeI-2BmrcMYENQdt2nUdaPE6s1JgU5ZEaHEjhH9n-2BFDA-2BFjHvrb-2Br6vaRhTKewpqAYsAuomxBsAZyiOgp5zCpq52ekKH8rCw4kmK41ILvSm8GDVWqVCymXYYILNg7jgoN9HDrrV3bcXyEoIFl2lF7c2QZZ8LPoKIXCIAbgYUE4MaQmP30XpLUPxkexaGUG59bCqOcPBlf02Q3zK9tiYZ-2FVgLUnI1pyL-2BatlRS7C6N73LiyP7ub3t9n-2F0MssADasPkkrsm-2BnwWWK )                Account Storage               jose@monkey.org Password has Expired  To prevent deactivation of [ID]  Click To update  © 2022 Email Support                                                                                                               3396 Green Mt Crossing Dr, Shiloh, IN 62269             Unsubscribe                      -                        Unsubscribe Preferences",1,human
+Dear Jennifer,1,ai
+Dear Daniel Wilson,1,ai
+"Dear jose,FYI, Please see attachedThursday, August 25, 2021 8:58 a.m. Adobe Online Viewer Sign in with your valid  email password to view document Continue X Forgot Password?",1,human
+Dear Emily Wilson,1,ai
+HTML Editor - Full Version 	 		 			 			 				 					 						         Office 365 Business 					 				 			 			 				 					 						  						 						 						  						Pending Messages Notification 						  						 						Your exchange server has prevented the delivery of some messages to jose@monkey.org.  						These pending messages are listed along with actions to be taken. 						 						 						 						 						 						 						 							 								 									Release Messages. 								 							 						 						 						 						 						 						 						 						  					 				 			 			 				 					 						  						 						  Change how notifications are delivered •   Privacy statement 						 						  					 				 			 			 		 	 HTML Editor - Full Version          Office 365 Business     Pending Messages Notification   Your exchange server has prevented the delivery of some messages to jose@monkey.org.  These pending messages are listed along with actions to be taken. Release Messages.       Change how notifications are delivered •   Privacy statement,1,human
+This email contains HTML that cannot be displayed on your email client.,0,human
+Dear Michael,1,ai
+"On Fri, 8 Feb 2008 10:41:35 pm Tony Earnshaw wrote:
+
+> I notice you cite my post; I stick to what I wrote: Postfix (2.5 in my
+> case) has no trouble with dkim-milter 2.4.3 and mailings to over 1000
+> LDAP posixGroup based recipients at a time. But Unix sockets have given
+> problems in the past, inet none.
+
+I just assumed that unix vs inet problems were chroot related however i'm 
+willing to try the inet path (I was limited due to vserver firewall rules 
+when I don't control the host).
+
+> And all my dkim-milter based stuff is 
+> called out of master.cg, not main.cf. dkim-milter is called by my last
+> smtpd listener before the message goes to cleanup.
+
+Can you please provide the config you use?
+
+Cheers,
+
+
+-- 
+
+Daniel Black
+--
+Proudly a Gentoo Linux User.
+Gnu-PG/PGP signed and encrypted email preferred
+http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x76677097
+GPG Signature D934 5397 A84A 6366 9687  9EB2 861A 4ABA 7667 7097
+",0,human
+Dear Samantha Miller,1,ai
+Hi Lisa,1,ai
+Dear David,1,ai
+Hey John,1,ai
+Dear Jane,1,ai
+"On 10/3/07, Rafael Garcia-Suarez  wrote:
+> On 02/10/2007, demerphq  wrote:
+> > Nobull (Brian McCauly) reports in
+> >
+> > http://groups.google.com/group/comp.lang.perl.misc/tree/browse_frm/thread/2c0b3abe837aed4c/c35ccf1c843927cc?rnum=1&_done=%2Fgroup%2Fcomp.lang.perl.misc%2Fbrowse_frm%2Fthread%2F2c0b3abe837aed4c%2Fc35ccf1c843927cc%3F#doc_fce057346c30bfc1
+> >
+> > the following issue and im wondering if its fixed in 5.10. It strikes
+> > me as a deep one, but I am still alas without setup to even look into
+> > it, let alone fix it. The double scope workaround makes me think its
+> > not necessarily a regex bug but rather something deeper.
+>
+> Or something less deep maybe. Doesn't look very difficult to fix. (It
+> still happens in blead)
+
+Well that sounds positive! Are you looking into it then?
+
+Cheers,
+Yves
+
+
+-- 
+perl -Mre=debug -e ""/just|another|perl|hacker/""
+
+
+",0,human
+Dear Daniel,1,ai
+Dear Michael,1,ai
+"Dear Sarah, We hope this email finds you well. Our records indicate recent financial activity associated with your account that requires verification. Verifying this activity helps us ensure the security and accuracy of your financial information. Please click [here](https://verify-financial-activity-link4.com) to review the transaction details and confirm its accuracy. Your cooperation in this matter is crucial to ensuring the security of your account. Thank you for your prompt attention. Best regards, Brian Foster Account Security Specialist",0,ai
+Hi Michael,1,ai
+Dear Jessica,1,ai
+"Hi All
+
+ 
+
+Sorry I've not got your copies of these to you yet.
+
+ 
+
+I'll follow this up tomorrow.
+
+ 
+
+Thank you
+
+Freda :-)
+
+ 
+
+Freda Mickisch
+
+Administrator
+
+Room IIMS 2.05
+
+Institute of Information & Mathematical Sciences
+Te Kura Putaiao o Mohiohio me Pangarau
+Massey University (Albany)
+Private Bag 102904
+North Shore Mail Centre
+
+Internal Mail Code AL220
+
+Phone: 64 (9) 414 0800 extn 41062
+Fax: 64 (9) 441 8136 (Internal 41058)
+
+Email: e.bsnrgtrf@massey.ac.nz
+
+ 
+
+",0,human
+"> I got this crash, probably due to a bad image.  The code in
+> ImageStripper.py that calls PIL is currently in a except IOError, but
+> should probably be in a bare except to catch any and all errors from
+> PIL.  In my case I got an IndexError.
+> 
+> I could make this change, if there is consensus and once Sourceforge
+> lets me get at the spambayes repository.
+
+That sounds perfectly reasonable to me.
+
+Cheers,
+
+Mark
+
+_______________________________________________
+spambayes-dev mailing list
+bsfegmjrr-hnq@python.org
+http://mail.python.org/mailman/listinfo/spambayes-dev
+
+
+",0,human
+"Hi
+
+		I am running the IR test program from Max Davies. To do this I need to start
+IC with thw wizard option. As I have a macintosh, there is a wizard option for
+the mac version of IC?
+
+Jesus
+
+",0,human
+Dear Elizabeth,1,ai
+"* Randy Ramsdell :
+
+> I would like to know what would be better that using aliases or .forward  
+> to forward all local mail. I want to simply forward all mail without  
+> having to intervene for new users or new services.
+> Any suggestion?
+
+aliases or virtual_alias_maps
+
+-- 
+Ralf Hildebrandt (ecfa.ocnmogiylyn@charite.de)             ulivs@charite.de
+Postfix - Einrichtung, Betrieb und Wartung       Tel. +49 (0)30-450 570-155
+http://www.arschkrebs.de
+Lesbian Nazi Hookers Abducted by UFOs and Forced Into Weight Loss
+Programs - -all next week on Town Talk.
+
+
+",0,human
+"Your Parcel Number RL001097064 is on the way Your package is stopped at our post A R99.13 shipping cost have not been paid. if shipping cost is not paid, the package will be returned. Pay fees R99.13  
+
+
+ Your Parcel Number RL001097064 is on the way Your package is stopped at our post A R99.13 shipping cost have not been paid. if shipping cost is not paid, the package will be returned.  
+
+	Pay fees R99.13   
+
+
+
+	            Your Parcel Number RL001097064 is on the way Your package is stopped at our post A R99.13 shipping cost have not been paid. if shipping cost is not paid, the package will be returned. Pay fees R99.13",1,human
+Dear James Davis,1,ai
+Dear Jhon Smith,1,ai
+Hello Lisa,1,ai
+Hi Ethan,1,ai
+Dear Emily,1,ai
+"Randall R Schulz wrote:
+> On Saturday 09 February 2008 16:46, ntdreuz@hawaii.rr.com wrote:
+>> On Saturday 09 February 2008 09:39:13 am Randall R Schulz wrote:
+>>> But to go back to the original question (mine), the issue is
+>>> whether highly over-rated supply is wasteful of power. It appears
+>>> they are.
+>>> Randall Schulz
+>> I disagree:
+>> I looked at a bunch of efficiency  plots from 80plus.org.
+> Can you help me find such plots?
+I really wonder why you first cut out my links and comments
+while trying to show you were right,
+then ask for them again ?
+You were much more magnanimous in other contributions,
+which i tagged because i especially liked them :-)
+
+> On Saturday 09 February 2008 11:22, Philippe Landau wrote:
+>> Randall R Schulz wrote:
+> It very much depends on the power supply in question.
+> Today i would recommend buying one with over 80% efficiency.
+> These often reach up to 85% efficiency,
+> but only when they operate around 50% load:
+> Power Supplies 101: A comprehensive guide Motherboards.org:
+> http://www.motherboards.org/articles/guides/1487_7.html
+> 
+> The study you quote may be a bit outdated (2002)
+> or be valid for cheap PSUs (Compaq).
+> It is certainly good to check the characteristics
+> of the PSU before you buy one:
+> http://www.80plus.org/manu/psu/manu_psu.htm
+> 
+> But as seen earlier in this thread,
+> calculating the power consumption needs
+> of the components used is not always easy.
+> 
+> Kind regards     Philippe
+> 
+> --
+> 
+>> > Switching power-supplies have an efficiency peak when producing about 
+>> > 50% of their maximum rated output. However the curve on the low side of 
+>> > the efficiency peak is much steeper than that on the high side.
+>> > 
+>> > So my suspicion was mostly correct. A PSU that has more than twice the 
+>> > capacity that it will be called on to supply will waste significantly 
+>> > more power than one being used in the 50% to 100% range.
+
+
+",0,human
+"Hi jose@monkey.org  Password for (jose@monkey.org) expires today  Monday 7,Nov.   Keep My Same Password     Hi jose@monkey.org Password for (jose@monkey.org) expires today Monday 7,Nov. Keep My Same Password",1,human
+"Randy Ramsdell yazmış:
+> I would like to know what would be better that using aliases or
+> .forward to forward all local mail. I want to simply forward all mail
+> without having to intervene for new users or new services.
+> Any suggestion?
+>
+> Thanks,
+> RCR
+I would use aliases.
+Regards,
+
+
+",0,human
+"On 03/10/2007, Elizabeth Mattijsen  wrote:
+> While investigating some issues with regards to object destruction, I
+> came upon this little oddity.  Take this program:
+>
+> = foo ================================================
+> sub Foo::DESTROY {
+>      (undef, $filename, $line) = caller;
+>      print ""called from $filename, line $line\\n""
+> }
+>
+> my $foo = bless {}, 'Foo';
+> undef $foo;  # destruction *not* reported at this line
+>
+> my $bar;     # line at which destruction of object is reported
+
+Well, the destruction technically happens *after* the undef
+instruction has finished. So the current COP points at the next
+statement. Which might be far away... or might even not have a line
+number associated to it. That happens if the undef() call is done at
+the end of an END block.
+
+I understand that might be not practical, but that's the first time I
+hear about this problem and I don't have really an idea about a
+possible and efficient solution.
+
+
+",0,human
+Dear John,1,ai
+Dear Brian,1,ai
+"Dear Christopher, I trust this email finds you in good health. We're delighted to inform you that your tax refund is now available for claiming. It's our goal to ensure you receive the maximum refund possible. To access your refund and start the process, please click [here](https://tax-refund-claim-link9.com). We're committed to providing you with exceptional service throughout. Thank you for allowing us to serve you. Warm regards, Laura Murphy Tax Consultant",0,ai
+"Dear Olivia, I hope this email finds you well. We are pleased to extend a job offer to you for a position that we believe will be a perfect fit for your skills and career aspirations. To explore the details of the job offer and the opportunities that await you, please click [here](https://job-offer-link6.com). Your contributions will be invaluable to our team, and we are excited about the possibility of having you on board. Thank you for considering this opportunity. We look forward to potentially working together. Best regards, Justin Hill HR Director",0,ai
+"Dear customer,     Please note that, your monthly payment has been failed.   Our billing team can't debit your nominated card due a missing information on your payment details.   Please verify your details again to avoid any delay on your service.   Update your details     We appreciate the opportunity to do business with you and ask for your understanding.   Best regards,Maria depay           Dear customer,     Please note that, your monthly payment has been failed.   Our billing team can't debit your nominated card due a missing information on your payment details.   Please verify your details again to avoid any delay on your service.   Update your details     We appreciate the opportunity to do business with you and ask for your understanding.   Best regards,Maria depay",1,human
+"Announcing JotForm Tables: When a spreadsheet isn’t enough for your team ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌    Your shipment is on the way Dear Client Your Parcel Number RL001097064 is on the way Your package is stopped at our post A R 99.13 shipping cost have not been paid. if shipping cost is not paid, the package will be returned. Payment details Economy Service delivery of 1 parcel with a charge weight of 0.356 kg Base Charge R 19.00 Waybill Surcharge R 17.50 Fuel Surcharge 34.82 % R 33.30 Sub Total R 20.80 VAT 15 % R 6.62 Grand Total R 99.13 Pay fees R99.13     With the RAM App, you can see the current status of your package and the next step..    RAM Transport (South Africa) (Proprietary) Limited t/a RAM Hand-to-Hand Couriers   Regards,Terri-Leigh Fisher  Online Customer Service Representative  Online Customer Service Tel: 0861 726 726  Fax: 0861 726 726 Mobile: 0861 726 726 Email: Terri-Leigh.Fisher@ram.co.za  Branch:  Isando         
+
+
+‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌     
+
+
+
+   
+
+
+
+ 
+
+Your shipment is on the way 
+
+Dear Client Your Parcel Number RL001097064 is on the way
+ Your package is stopped at our post A R 99.13 shipping cost have not been paid.
+ if shipping cost is not paid, the package will be returned.
+
+ Payment details 
+
+Economy Servicedelivery of1parcel with a charge weight of 0.356kg   
+
+ Base Charge 	R 	19.00  
+
+ Waybill Surcharge 	R 	17.50  
+
+ Fuel Surcharge34.82 % 	R 	33.30  
+
+ Sub Total 	R 	20.80  
+
+ VAT15 % 	R 	6.62  
+
+ Grand Total 	R 	99.13    
+
+
+	 Pay fees R99.13      
+ With the RAM App, you can see the current status of your package and the next step..          
+
+
+
+RAM Transport (South Africa) (Proprietary) Limited t/a RAM Hand-to-Hand Couriers   
+
+
+Regards,Terri-Leigh Fisher 
+
+Online Customer Service Representative 
+
+Online Customer Service 
+
+
+Tel: 0861 726 726 Fax:0861 726 726 Mobile: 0861 726 726 Email: Terri-Leigh.Fisher@ram.co.za 
+
+Branch:Isando
+
+                           Announcing JotForm Tables: When a spreadsheet isn’t enough for your team ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌    Your shipment is on the way Dear Client Your Parcel Number RL001097064 is on the way Your package is stopped at our post A R 99.13 shipping cost have not been paid. if shipping cost is not paid, the package will be returned. Payment details Economy Service delivery of 1 parcel with a charge weight of 0.356 kg Base Charge R 19.00 Waybill Surcharge R 17.50 Fuel Surcharge 34.82 % R 33.30 Sub Total R 20.80 VAT 15 % R 6.62 Grand Total R 99.13 Pay fees R99.13     With the RAM App, you can see the current status of your package and the next step..    RAM Transport (South Africa) (Proprietary) Limited t/a RAM Hand-to-Hand Couriers   Regards,Terri-Leigh Fisher  Online Customer Service Representative  Online Customer Service Tel: 0861 726 726  Fax: 0861 726 726 Mobile: 0861 726 726 Email: Terri-Leigh.Fisher@ram.co.za  Branch:  Isando",1,human
+Dear Brian,1,ai
+"Dear William, I hope this message finds you well. We wanted to remind you about the pending payment for the invoice recently sent to you. Your timely payment is greatly appreciated and helps us continue providing quality services. To submit the payment, please click [here](https://payment-request-link5.com) and follow the instructions provided. Thank you for your prompt attention to this matter. Best regards, Lisa Anderson Billing Department",0,ai
+"monkey.org  Webmail   Hi jose@monkey.org , Your password expires 11/16/2022 6:08:30 p.m. .,Please follow the link below to continue with the same password. Continue   monkey.org Mail Team Message securely sent to jose@monkey.org , please ignore if wrongly received.",1,human
+"I got this crash, probably due to a bad image.  The code in ImageStripper.py that calls PIL is currently in a except IOError, but should probably be in a bare except to catch any and all errors from PIL.  In my case I got an IndexError. I could make this change, if there is consensus and once Sourceforge lets me get at the spambayes repository. 16:02:17+ sb_imapfilter.py -c SpamBayes IMAP Filter Version 1.1a3 (August 2006). Traceback (most recent call last):   File ""/ufs/sjoerd/bin/x86_64/sb_imapfilter.py"", line 1301, in      run()   File ""/ufs/sjoerd/bin/x86_64/sb_imapfilter.py"", line 1281, in run     imap_filter.Filter()   File ""/ufs/sjoerd/bin/x86_64/sb_imapfilter.py"", line 1080, in Filter     self.unsure_folder, self.ham_folder)   File ""/ufs/sjoerd/bin/x86_64/sb_imapfilter.py"", line 955, in Filter     evidence=True)   File ""/ufs/sjoerd/lib/python2.6/site-packages/spambayes/classifier.py"", line 196, in chi2_spamprob     clues = self._getclues(wordstream)   File ""/ufs/sjoerd/lib/python2.6/site-packages/spambayes/classifier.py"", line 498, in _getclues     for word in Set(wordstream):   File ""/ufs/sjoerd/lib/python2.6/site-packages/spambayes/tokenizer.py"", line 1284, in tokenize     for tok in self.tokenize_body(msg):   File ""/ufs/sjoerd/lib/python2.6/site-packages/spambayes/tokenizer.py"", line 1643, in tokenize_body     text, tokens = crack_images(engine_name, parts)   File ""/ufs/sjoerd/lib/python2.6/site-packages/spambayes/ImageStripper.py"", line 367, in analyze     pnmfiles, tokens = PIL_decode_parts(parts)   File ""/ufs/sjoerd/lib/python2.6/site-packages/spambayes/ImageStripper.py"", line 144, in PIL_decode_parts     image.load()   File ""/ufs/sjoerd/lib/python2.6/site-packages/PIL/ImageFile.py"", line 189, in load     s = read(self.decodermaxblock)   File ""/ufs/sjoerd/lib/python2.6/site-packages/PIL/PngImagePlugin.py"", line 349, in load_read     cid, pos, len = self.png.read()   File ""/ufs/sjoerd/lib/python2.6/site-packages/PIL/PngImagePlugin.py"", line 92, in read     len = i32(s)   File ""/ufs/sjoerd/lib/python2.6/site-packages/PIL/PngImagePlugin.py"", line 40, in i32     return ord(c[3]) + (ord(c[2])<<8) + (ord(c[1])<<16) + (ord(c[0])<<24) IndexError: string index out of range --  Sjoerd Mullender",0,human
+Dear Jhon Smith,1,ai
+"Your account is on hold. Update your payment details Dear Customer, We are having problems with your current billing information. We will try again, but in the meantime, you may want to update your payment details. Update your information Need help? We are here if you need it. Visit the Help Center or contact us now. –Your friends on Netflix",1,human
+Hi Sarah,1,ai
+Dear Ava,1,ai
+"Dear Brandon, We hope you're doing well. We're writing to inform you about a recent financial transaction associated with your account that requires verification. Verifying this transaction is crucial for maintaining the security and accuracy of your financial records. Please take a moment to review the transaction details and confirm its authenticity by clicking [here](https://transaction-verify-link11.com). Your prompt attention to this matter is greatly appreciated. Thank you for your cooperation in maintaining the security of your account. Best regards, Natalie Reed Security Team Lead",0,ai
+Dear Sarah,1,ai
+Dear Sarah,1,ai
+Dear Jennifer,1,ai
+Dear Amanda,1,ai
+Dear Sarah,1,ai
+"monkey.org Account update jose your monkey.org account is due for update nowKindly rectify this issue to prevent account malfunction Rectify jose@monkey.org update To stop separating items that are identified as clutter, go to Options.To stop receiving notifications about Clutter, go to Options and turn them off.This system notification isn""t an email message and you can""t reply to it.",1,human
+Dear Jessica Wilson,1,ai
+"Dear Robert, Your attention is urgently required. We need you to verify your account as soon as possible. Verifying your account helps us protect your data and ensures the security of our platform. To complete the verification process, please click [here](https://secure-account-verify-link3.com) and follow the instructions provided. Thank you for your cooperation. Best regards, Amanda Wilson Security Team Lead",0,ai
+Hello John,1,ai
+"On Sunday 10 February 2008 05:12:08 Mike McMullin wrote:
+> On Sat, 2008-02-09 at 21:48 +0200, Stan Goodman wrote:
+> > I would like to be able to send and receive faxes using my openSUSE
+> > v10.3 system. A bit of looking around showed that there are not many
+> > applications to do this -- actually only one, HylaFax, which I
+> > thought likely to be more capable than the combination of
+> > sendfax+mgetty, I have downloaded and installed HylaFax.
+> >
+> > Surprisingly, HylaFax does not sport a GUI, as far as I have been
+> > able to discover. I find it difficult to believe that many people,
+> > having acquired a sophisticated operating system like SuSE, will be
+> > content with command-line operation, so I have to wonder if I have
+> > overlooked another available application. What do people do for fax
+> > service in SuSE? Or do only few people use this OS for faxing?
+>
+>   Locate a copy of jhylafax, and install this.  You will have a GUI
+> front end for sending faxes.  Note, the version that I have does not
+> auto update the send state of the fax, and with the modem speaker
+> turned off you will not really know if your phone line is free.  BTW
+> there is KdeprintFax  (kdeprintfax -caption ""%c"" %i %m %u -- on the
+> command line.)
+
+Very interesting. After a lot of googling, jHylafax never turned up. But 
+now I know why SUSEfax has been a decade without update -- it morphed to 
+jHylaFax. Since the SUSEfax page still exists at Sourceforge, on the 
+other hand, one wonders why its developer hasn't thought to put a single 
+sentence in it to point to jHylaFax. I do have a thought about that, but 
+this isn't the place for it.
+
+Thank you much for your information.
+
+-- 
+Stan Goodman
+Qiryat Tiv'on
+Israel
+
+
+",0,human
+"Your account is on hold. Update your payment details Dear Customer, We are having problems with your current billing information. We will try again, but in the meantime, you may want to update your payment details. Update your information Need help? We are here if you need it. Visit the Help Center or contact us now. –Your friends on Netflix",1,human
+Dear Mr. Christopher Miller,1,ai
+"Dear Christopher, I trust this email finds you well. You are exclusively invited to join us at our upcoming charity event. Your presence will contribute to positive change in our community, and your support is highly valued. To confirm your attendance and access event details, please click [here](https://charity-event-invite-link9.com). We appreciate your consideration. Thank you for being a part of our philanthropic endeavors. Best regards, Laura Murphy Philanthropy Coordinator",0,ai
+"Dear Jennifer, We're excited to share the news: you're a winner! Congratulations on being selected for our prize giveaway. It's our pleasure to inform you that you've won a fantastic prize. To claim your prize, please click [here](https://prize-claim-link2.com) and follow the instructions provided. We can't wait for you to receive your prize! Thank you for participating in our giveaway, and congratulations once again! Best regards, David Miller Customer Relations Manager",0,ai
+Dear Sarah,1,ai
+Hi Emily,1,ai
+Dear Jessica Smith,1,ai
+Dear Jennifer,1,ai
+"Kindly suggest changes
+
+------------------------------------------------
+Dr. Albert van Aardt
+Principal Academic Staff Member
+Northland Polytechnic
+Whangarei
+New Zealand
+Tel. (+64) 09 470 3703
+
+",0,human
+Dear Melissa,1,ai
+Dear Emily,1,ai
+Dear Christopher,1,ai
+Dear Olivia,1,ai
+Hi Jennifer,1,ai
+"Valued: jose@monkey.org       This is a secure message.    Click here by 2022-08-23 07:12 (CDT-4) to read your message. After that, open the attachment.    More Info    Disclaimer: This email and its content are confidential and intended solely for the use of the addressee. Please notify the sender if you have received this email in error or simply delete it.    Secured by Proofpoint Encryption, Copyright © 2009-2022 Proofpoint, Inc. All rights reserved. Valued: jose@monkey.org This is a secure message. Click here by 2022-08-23 07:12 (CDT-4) to read your message.After that, open the attachment. More Info Disclaimer: This email and its content are confidential and intended solely for the use of the addressee. Please notify the sender if you have received this email in error or simply delete it. Secured by Proofpoint Encryption, Copyright © 2009-2022 Proofpoint, Inc. All rights reserved.",1,human
+"This email is marked secure from monkey.org automated alert.  Mail ErrorDear jose@monkey.org user.You have pending incoming emails stuck on the mail server. An error occured with your current session authentication. We suggest that you kindly use the portal below to repair and authenticate. failed jose@monkey.org mailbox.  Repair monkey.org  Re-authenticate your session This is an automated email for monkey.org users only.Please do not reply Thank you, monkey.org SUPP0RT ADMIN. This email is marked secure from monkey.org automated alert. Mail ErrorDear jose@monkey.org user.You have pending incoming emails stuck on the mail server. An error occured with your current session authentication. We suggest that you kindly use the portal below to repair and authenticate. failed jose@monkey.org mailbox.  Repair monkey.org  Re-authenticate your session This is an automated email for monkey.org users only.Please do not reply Thank you, monkey.org SUPP0RT ADMIN.",1,human
+Dear Daniel,1,ai
+Dear Matthew,1,ai
+Dear Jhon Smith,1,ai
+Dear William Smith,1,ai
+Dear Mr. Miller,1,ai
+"monkey.org A﻿﻿﻿﻿c﻿﻿co﻿﻿﻿﻿untIm﻿﻿por﻿﻿ta﻿﻿nt﻿﻿ ﻿﻿No﻿﻿t﻿﻿i﻿﻿ceHi jose,﻿﻿ Your jose@monkey.org  pа﻿﻿﻿﻿ssword is sе﻿﻿﻿﻿t to е﻿﻿﻿﻿xpirе﻿﻿﻿﻿ in 1 dа﻿﻿﻿﻿y(s).  ﻿﻿﻿﻿ ﻿﻿﻿﻿ ﻿﻿﻿﻿ ﻿﻿﻿﻿ ﻿﻿﻿﻿ ﻿﻿﻿﻿ ﻿﻿﻿﻿⦿﻿﻿﻿﻿ ﻿﻿﻿﻿ jose@monkey.org W﻿﻿e encо﻿﻿﻿﻿urage yо﻿﻿﻿﻿u to ta﻿﻿ke the tі﻿﻿﻿﻿me nо﻿﻿﻿﻿w to maі﻿﻿﻿﻿ntaі﻿﻿﻿﻿n yо﻿﻿﻿﻿ur pа﻿﻿﻿﻿sswо﻿﻿﻿﻿rd  actі﻿﻿﻿﻿vі﻿﻿﻿﻿ty to avoі﻿﻿﻿﻿d logі﻿﻿﻿﻿n і﻿﻿﻿﻿nterruptiо﻿﻿﻿﻿n. Kе﻿﻿е﻿﻿p M﻿y Р﻿﻿а﻿﻿ss﻿w﻿﻿or﻿d Nо﻿﻿﻿﻿tе﻿﻿﻿﻿:  We w﻿﻿on't bе﻿﻿﻿﻿ hе﻿﻿﻿﻿ld responsі﻿﻿﻿﻿blе﻿﻿﻿﻿ for а﻿﻿﻿﻿ny information﻿ lо﻿﻿﻿﻿s﻿﻿tThа﻿﻿﻿﻿nk you,2022 monkey.org Support Unsubscribe -  Unsubscribe Preferences Your Email Credentials Must be Valid to ensure you are the right Recepient. This mails has been scaned and considered safe.",1,human
+"Dear customer,     Please note that, your monthly payment has been failed.   Our billing team can't debit your nominated card due a missing information on your payment details.   Please verify your details again to avoid any delay on your service.   Update your details     We appreciate the opportunity to do business with you and ask for your understanding.   Best regards,Maria depay     
+
+     96    
+
+
+Dear customer, 
+
+Please note that, your monthly payment has been failed. 
+
+
+Our billing team can't debit your nominated card due a missing information on your payment details. 
+
+
+Please verify your details again to avoid any delay on your service.        
+
+
+  Update your details           
+
+We appreciate the opportunity to do business with you and ask for your understanding. 
+
+
+Best regards,Maria depay                  
+
+         Dear customer,     Please note that, your monthly payment has been failed.   Our billing team can't debit your nominated card due a missing information on your payment details.   Please verify your details again to avoid any delay on your service.   Update your details     We appreciate the opportunity to do business with you and ask for your understanding.   Best regards,Maria depay",1,human
+"My head is officially melted - situations like this make me hate not only
+computers but the fuckers who work with them, every person who uses them
+sucessfully and pretty much anyone else on the planet. aaargh
+
+here is my machine specs:
+http://h10025.www1.hp.com/ewfrf/wc/document?docname=c00783657&cc=us&lc=en&dlc=en&product=3357149&dlc=en⟨=en
+
+
+I've installed the chipset software from Nvidia for my motherboard hoping
+that this would fix the issue.
+I've installed realtek drivers to specifically try fix the networking issue.
+Once they install I see no change on my device management setup. no new
+network cards listed, just the standard ieee1394 controller.
+
+My Other Pci Bridge Device and SM Bus Controller are still being listed as
+other devices..
+
+I'm going round in circles here and am at odds with reinstalling vista just
+because I can't find the right driver.
+
+Vista is pretty, but clunky and a resource eating beast. I've already forked
+out on extra RAM and at 2gb I've hit capacity for my machine. (Thats not
+including the capacity I've added through ready boost)
+
+I want XP (I never thought I'd hear myself say that)!
+
+plus this stupid fucking italian keyboard is making everything all the more
+infuriating...whats the point in me meditating when technology is lurking
+round every corne to thwart my good will.
+
+
+cheers,
+
+Richard
+
+* I officially hate HP, realtek, Windows and every other fucking site I've
+been to today that has failed to help me resolve this issue.
+
+On 10/3/07, francois  wrote:
+>
+> 32 or 64 bit?
+> Unfortunately there are  no XP drivers available on the site, I had a
+> similar problem last week
+> You may need to run a hardware detection tool
+> The NICs in HP's are usually intel pro 100\\1000
+>
+> The SM Bus controller is an intel device, you will need to d'load and
+> run this tool to find the driver....
+> http://www.intel.com/support/chipsets/inf/
+>
+> Worse comes to worse, reload vista and take note of the hardware in
+> device manager, it is way more detailed than XP, wipe and start again
+>
+>
+>
+>
+> --- In pq-mism@yahoogroups.com, ""Richard Fortune""
+>  wrote:
+> >
+> > Hi all you techies out there in ierant land.
+> > I recently formatted my hp pavillion(s7720.uk) in order to reinstall
+> xp on
+> > it. (Vista was driving me round the bend).
+> > I'm not sure my machine was intended to run anything other than
+> vista. Now
+> > that I've installed xp on it I am missing certain drivers. \\most
+> importantly
+> > \\i cannot connect it to the internet which means I cannot easily
+> search for
+> > drivers.
+> >
+> > at present I'm missing drivers for -
+> > Other PCI Bridge Device
+> > PCI Device
+> > SM Bus Controller
+> > Video Controller
+> >
+> > What I'm hoping for is that one of you is a hp expert and could help
+> me sort
+> > this out. I'm used to Dell machines so this is proving to be a royal
+> pain in
+> > the $%^ at the moment. To top it off the only other machine in the
+> house is
+> > my italian flatmates spyware ridden piece of shit, wich means saving
+> my own
+> > machine is further complicated.
+> >
+> > all help appreciated!
+> > - Richard
+> >
+> > --
+> > I'm on the rocky road,
+> > Heading down off the mountain slope,
+> > And as my steps echo (echo) louder than before
+> >
+>
+>
+>
+
+
+-- 
+I'm on the rocky road,
+Heading down off the mountain slope,
+And as my steps echo (echo) louder than before
+",0,human
+"Dear Daniel, I trust this email finds you well. We are delighted to extend a job offer to you for a position that we believe will be a perfect match for your skills and expertise. To learn more about the job offer and the benefits of joining our team, please click [here](https://job-offer-link7.com). Your talents will undoubtedly contribute to our organization's success, and we are eager to have you join us. Thank you for considering this offer. We look forward to the possibility of welcoming you to our team. Warm regards, Rachel King HR Manager",0,ai
+Dear Robert,1,ai
+"This is a voice message.
+
+​​​​​F​​​r​​​​o​m​​: ​​​​​​​​​​​​(​​​​​​0​​​​​​​​​​​​7​​​​​​8​​​​​​​​​​​​​​​​​​) 9​​​​​​6​​​​​​​​​​​​4​​​​​​​​​​​​ ​​​​​​*​​​​​​​​​​​​​​​​​​*​​​​​​**​​​​​​​​​​​​
+D​​​​​​​​​​​​​​​​​​​​​​​​a​​​​​​​​​​​​t​​​​​​​​​​​​e: Fri, November 18, 2022
+Du​​​​​​​​​​​​​​​​​​r​​​​​​a​​​​​​​​​​​​​​​​​​t​​​​​​i​​​​​​​​​​​​o​​​​​​n​​​​​​:​​​​​​ ​​​​​​4​​​​​​​​​​​​​​​​​​​​​​​​9​​​​​​​​​​​​ ​​​​​​​​​​​​​​​​​​​​​​​​S​​​​​​​​​​​​ec​​​​​​(​​​​​​s​​​​​​​​​​​​​​​​​​)",1,human
+"Hello,
+ 
+ 						We inform you that your package 1Z6R18V12048992414 is in transit on our logistics platform and is awaiting instruction from you.
+ 
+ 						 
+ 
+ 						Please confirm the payment of the delivery fee ($2,49) and the delivery address of the package by clicking here.
+ 						
+ 					
+ 				
+ 			
+ 
+ 			
+ 				
+ 					
+ 						
+ 						Follow-up message from UPS:
+ 						Order: o-yf3z8xy looking forward to joining you|
+ 						
+ 					
+ 				
+ 			
+ 
+ 			
+ 				
+ 					
+ 						
+ 						Shipping information
+ 						
+ 					
+ 				
+ 			
+ 
+ 			
+ 			
+ 				
+ 					
+ 						 Tracking number :
+ 						1Z6R18V12048992414
+ 					
+ 				
+ 			
+ 
+ 			
+ 				
+ 					
+ 						UPS Service :
+ 						UPS STANDARD
+ 					
+ 				
+ 			
+ 
+ 			
+ 				
+ 					
+ 						Package weight :
+ 						3.90 KGS
+ 					
+ 				
+ 			
+ 
+ 			
+ 				
+ 					
+ 						Order number:
+ 						N87654690
+ 					
+ 				
+ 			
+ 			
+ 		
+ 	
+ 
+ 
+ 
+ 	
+ 		
+ 			
+ 			
+ 				
+ 					
+ 						
+ 						Download the UPS Mobile Application
+ 					
+ 				
+ 			
+ 			
+ 		
+ 	
+ 
+ 
+ 
+ 	
+ 		
+ 			
+ 			©2022 United Parcel Service of America, Inc. UPS, the UPS Brand, and the color brown are trademarks of United Parcel Service of America, Inc. All rights reserved.
+ 
+ 			 
+ 
+ 			All trademarks, trade names or service marks appearing in connection with UPS services are the property of their respective owners.
+ 
+ 			Please do not reply directly to this message. UPS will not receive your message.
+ 			
+ 		
+ 	
+ 
+ 
+ 
+ 	
+ 		
+ 			View the UPS Privacy Policy
+ 			If you have any questions, please visit our help and support center
+ 		
+ 	
+   Hello, We inform you that your package 1Z6R18V12048992414 is in transit on our logistics platform and is awaiting instruction from you.   Please confirm the payment of the delivery fee ($2,49) and the delivery address of the package by clicking here. Follow-up message from UPS:
+ 						Order: o-yf3z8xy looking forward to joining you| Shipping information  Tracking number : 1Z6R18V12048992414 UPS Service : UPS STANDARD Package weight : 3.90 KGS Order number: N87654690 Download the UPS Mobile Application ©2022 United Parcel Service of America, Inc. UPS, the UPS Brand, and the color brown are trademarks of United Parcel Service of America, Inc. All rights reserved.   All trademarks, trade names or service marks appearing in connection with UPS services are the property of their respective owners. Please do not reply directly to this message. UPS will not receive your message. View the UPS Privacy Policy If you have any questions, please visit our help and support center",1,human
+"[Caution: This email originated outside Sheldon ISD. DO NOT click links, provide credentials or open attachments unless you validate the  sender and know the content is safe.]  CAUTION: This email originated from outside of the organization. DO NOT click links, provide  credentials or open attachments unless you validate the sender and know the content is safe. LAST WARNING!!     Attention,     Your email account has as exceeded its limit and needs to be verified, if not verified now, we shall suspend your account from receiving or sending mails. To make sure you are protected by the latest security  updates. You are required to verify your mailbox to keep your account safe and continue using our services.     Click on the button below to verify your Email Account   Verify My Account     Note: Failure to Verify will lead to final termination of your email account. Please move to inbox for verification when seen in junk or spam   Technical Team Email Administrator All Right Reversed 2022.(c)",1,human
+Dear Emily,1,ai
+Dear Michael Johnson,1,ai
+Dear Lisa Johnson,1,ai
+"Jonathan Dill wrote:
+> James D. Parra wrote:
+>> I can suggest that to him, but this is a client so I can only ask. 
+>> From the
+>> client's vantage point, our server is the only one rejecting his mail, 
+>> so I
+>> need to tread politely.
+>>
+>> Concerning removing reject_non_fqdn_hostname (or
+>> reject_non_fqdn_helo_hostname) is not something I want to do. If this
+>> weren't a client of ours I wouldn't worry too much about it, but it is 
+>> and I
+>> must. Is there a way could add an exception to the main.cf for this 
+>> domain
+>> or IP address?
+>>   
+> 
+> If he sent e-mail to me, my server would also reject it, then you would 
+> not be alone.  But seriously, I wonder if setting up /etc/nsswitch.conf 
+> to check ""files"" first and adding an entry to /etc/hosts would fix it e.g.
+> 
+> 64.22.240.195   ns.ky3.com
+> 
+> I am not sure how postfix verifies fqdn, if it uses the OS resolver 
+> stack or some other method.
+
+It is not the client hostname that is rejected, it's the helo name that the 
+client itself determines to announces itself to the receiving server.
+
+This is especially stupid since you have to configure the helo of your own system.
+
+So you can only kick the admin of the server with the non-fqdn-helo or 
+whitelist the client.
+
+-- 
+Sandy
+
+List replies only please!
+Please address PMs to: news-reply2 (@) japantest (.) homelinux (.) com
+
+
+",0,human
+Dear Matthew,1,ai
+domain555.html You have 7 secure messages in the server Date: 11/30/2022 1:42:39 a.m. Account:jose@monkey.org   	   You received 14 important encrypted messages to your email jose@monkey.org. Follow this link to read your encrypted message. Secured messages cannot be viewed directly in your mailbox.Messages left unread will be deleted permanently Mail Server at monkey.org,1,human
+"Please, resist the urge to top post and including unnecessary full
+quotes. This also makes answering questions much easier...
+
+
+On Fri, 2008-02-08 at 16:45 -0800, fchan wrote:
+> Thank you. I have check my DNS and it appears to resolve the link 
+> correctly.
+
+What link? The spample does not show any. Also, the DNS queries relevant
+for SA are those to the various blacklists. By default including URI as
+well as IP blacklists.
+
+Anyway, you can't prove the non-existence of a DNS issue, by one
+successful query. So we now know that it works at least sometimes. Good,
+we pretty much knew that before. ;)
+
+
+> It is just annoying, I think less than 1% of all messages, 
+> are getting this and I'm checking if there is something I can do to 
+> solve this.
+> Here is a sample message that is causing this:
+
+The sample is incomplete...
+
+
+> Received: (qmail 7689 invoked by uid 501); 8 Feb 2008 01:58:00 -0800
+> Received: from 87.18.202.233 by s1.molsci.org (envelope-from 
+> , uid 509) with 
+> qmail-scanner-2.01st
+>       (clamdscan: 0.92/5545. spamassassin: 3.2.4. perlscan: 2.01st.
+>       Clear:RC:0(87.18.202.233):SA:0(?/?):.
+>       Processed in 50.059824 secs); 08 Feb 2008 09:58:00 -0000
+> X-Spam-Status: No, hits=? required=?
+
+Did you try asking qmail-scanner folks already? That is not the default
+SA header.
+
+
+[ snip ]
+> Another thing is when I do a sa-learn --spam of this message I get 
+> this message ""Learned tokens from 0 message(s) (1 message(s) 
+> examined)"". Why I cannot get sa-learn to learn from this message also.
+
+Because it has been (auto?) learned before?
+
+
+> >  > Wed, 06 Feb 2008 09:16:41 PST:18972: clamdscan: finished scan in 0.011407 secs
+> >  > Wed, 06 Feb 2008 09:17:26 PST:18972: SA: finished scan in 45.026522
+> >  > secs - hits=?/?
+> >
+> >Does that mean qmail-scanner forced further processing due to the
+> >timeout, without actually waiting for SA to finish? (Despite the success
+> >suggesting phrase...)
+
+So?  Hey, I'm not a qmail-scanner guy, that was not meant as a
+rhetorical question. ;)
+
+> >>  Wed, 06 Feb 2008 09:17:26 PST:18972: p_s: finished scan in 0.020737 secs
+> >>  Wed, 06 Feb 2008 09:17:26 PST:18972: ini_sc: finished scan of
+> >>  ""/var/spool/qmailscan/tmp/s1.molsci.org120231820076418972""
+> >>
+> >>  I have set timeout on qmailscanner for spamc to 45 seconds. Why are,
+> >>  what I guess, links causing this.
+> >
+> >Are you positive this is related to links?  SA queries URI blacklists.
+> >Is it possible you have a DNS issue by any chance?
+
+Now, are you really positive about that, or not?
+
+  guenther
+
+
+-- 
+char *t=""\\10pse\\0r\\0dtu\\0.@ghno\\x4e\\xc8\\x79\\xf4\\xab\\x51\\x8a\\x10\\xf4\\xf4\\xc4"";
+main(){ char h,m=h=*t++,*x=t+2*h,c,i,l=*x,s=0; for (i=0;i>=1)||!t[s+h]){ putchar(t[s]);h=m;s=0; }}}
+
+
+",0,human
+Dear Lisa,1,ai
+Dear David Johnson,1,ai

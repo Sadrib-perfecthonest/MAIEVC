@@ -1,0 +1,67 @@
+{
+  "framework_version": "1.0.0",
+  "models_loaded": true,
+  "test_scenarios": 2,
+  "batch_analyzed": 3,
+  "performance_metrics": {
+    "phishing": {
+      "accuracy": 0.9333333333333333,
+      "precision": 0.9635036496350365,
+      "recall": 0.9428571428571428,
+      "f1": 0.9530685920577617,
+      "evaluation_note": "Tested on HELD-OUT test set (20% of data)"
+    },
+    "source": {
+      "accuracy": 0.9846153846153847,
+      "precision": 0.975609756097561,
+      "recall": 1.0,
+      "f1": 0.9876543209876543,
+      "evaluation_note": "Tested on HELD-OUT test set (20% of data)"
+    },
+    "captcha": {
+      "accuracy": 0.9875,
+      "precision": 0.9802955665024631,
+      "recall": 0.995,
+      "f1": 0.9875930521091811,
+      "evaluation_note": "Tested on separate test set (30% of data)",
+      "indicators": "visual_quality, context_match, failure_rate, brand_consistency"
+    },
+    "dataset_info": {
+      "email_total_samples": 971,
+      "email_train_val_samples": 776,
+      "email_test_samples": 195,
+      "captcha_samples": 1431,
+      "email_features_dim": 256,
+      "captcha_image_shape": [
+        32,
+        32,
+        3
+      ]
+    },
+    "evaluation_protocol": {
+      "email_test_set": "20% held-out (never seen during training/validation)",
+      "captcha_test_set": "30% held-out (never seen during training/validation)",
+      "cross_validation": "3-fold for email models",
+      "prevent_memorization": "Stratified splits, proper train/val/test separation"
+    },
+    "model_info": {
+      "email_transformer": "ELECTRA-small",
+      "captcha_model": "MobileNetV2 (pretrained on ImageNet, fine-tuned)",
+      "captcha_image_size": "48x48x3",
+      "transformers_version": "5.1.0",
+      "tensorflow_version": "2.20.0"
+    }
+  },
+  "timestamp": "2026-02-14T22:11:24.564371",
+  "input_shapes": {
+    "phishing_model": "(None, 256)",
+    "source_model": "(None, 256)",
+    "captcha_model": "(None, 32, 32, 3)"
+  },
+  "captcha_indicators": [
+    "visual_quality",
+    "context_match",
+    "failure_rate",
+    "brand_consistency"
+  ]
+}

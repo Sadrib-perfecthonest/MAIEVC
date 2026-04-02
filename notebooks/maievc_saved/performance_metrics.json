@@ -1,17 +1,17 @@
 {
   "phishing": {
-    "accuracy": 0.9333333333333333,
-    "precision": 0.9635036496350365,
-    "recall": 0.9428571428571428,
-    "f1": 0.9530685920577617,
-    "evaluation_note": "Tested on HELD-OUT test set (20% of data)"
+    "accuracy": 0.9282051282051282,
+    "precision": 0.9701492537313433,
+    "recall": 0.9285714285714286,
+    "f1": 0.948905109489051,
+    "evaluation_note": "Tested on HELD-OUT test set (20% of data) with 5-fold CV"
   },
   "source": {
-    "accuracy": 0.9846153846153847,
-    "precision": 0.975609756097561,
+    "accuracy": 0.9897435897435898,
+    "precision": 0.9836065573770492,
     "recall": 1.0,
-    "f1": 0.9876543209876543,
-    "evaluation_note": "Tested on HELD-OUT test set (20% of data)"
+    "f1": 0.9917355371900827,
+    "evaluation_note": "Tested on HELD-OUT test set (20% of data) with 5-fold CV"
   },
   "captcha": {
     "accuracy": 0.9875,
@@ -25,7 +25,11 @@
     "email_total_samples": 971,
     "email_train_val_samples": 776,
     "email_test_samples": 195,
-    "captcha_samples": 1431,
+    "email_ai_phishing_samples": 499,
+    "email_human_phishing_samples": 199,
+    "email_ai_legitimate_samples": 99,
+    "email_human_legitimate_samples": 174,
+    "captcha_samples": 1561,
     "email_features_dim": 256,
     "captcha_image_shape": [
       32,
@@ -36,14 +40,14 @@
   "evaluation_protocol": {
     "email_test_set": "20% held-out (never seen during training/validation)",
     "captcha_test_set": "30% held-out (never seen during training/validation)",
-    "cross_validation": "3-fold for email models",
+    "cross_validation": "5-fold for email models",
     "prevent_memorization": "Stratified splits, proper train/val/test separation"
   },
   "model_info": {
     "email_transformer": "ELECTRA-small",
     "captcha_model": "MobileNetV2 (pretrained on ImageNet, fine-tuned)",
-    "captcha_image_size": "48x48x3",
-    "transformers_version": "5.1.0",
-    "tensorflow_version": "2.20.0"
+    "captcha_image_size": "32x32x3",
+    "transformers_version": "5.4.0",
+    "tensorflow_version": "2.21.0"
   }
 }

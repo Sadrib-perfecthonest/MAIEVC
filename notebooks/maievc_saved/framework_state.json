@@ -5,18 +5,18 @@
   "batch_analyzed": 3,
   "performance_metrics": {
     "phishing": {
-      "accuracy": 0.9333333333333333,
-      "precision": 0.9635036496350365,
-      "recall": 0.9428571428571428,
-      "f1": 0.9530685920577617,
-      "evaluation_note": "Tested on HELD-OUT test set (20% of data)"
+      "accuracy": 0.9282051282051282,
+      "precision": 0.9701492537313433,
+      "recall": 0.9285714285714286,
+      "f1": 0.948905109489051,
+      "evaluation_note": "Tested on HELD-OUT test set (20% of data) with 5-fold CV"
     },
     "source": {
-      "accuracy": 0.9846153846153847,
-      "precision": 0.975609756097561,
+      "accuracy": 0.9897435897435898,
+      "precision": 0.9836065573770492,
       "recall": 1.0,
-      "f1": 0.9876543209876543,
-      "evaluation_note": "Tested on HELD-OUT test set (20% of data)"
+      "f1": 0.9917355371900827,
+      "evaluation_note": "Tested on HELD-OUT test set (20% of data) with 5-fold CV"
     },
     "captcha": {
       "accuracy": 0.9875,
@@ -30,7 +30,11 @@
       "email_total_samples": 971,
       "email_train_val_samples": 776,
       "email_test_samples": 195,
-      "captcha_samples": 1431,
+      "email_ai_phishing_samples": 499,
+      "email_human_phishing_samples": 199,
+      "email_ai_legitimate_samples": 99,
+      "email_human_legitimate_samples": 174,
+      "captcha_samples": 1561,
       "email_features_dim": 256,
       "captcha_image_shape": [
         32,
@@ -41,18 +45,18 @@
     "evaluation_protocol": {
       "email_test_set": "20% held-out (never seen during training/validation)",
       "captcha_test_set": "30% held-out (never seen during training/validation)",
-      "cross_validation": "3-fold for email models",
+      "cross_validation": "5-fold for email models",
       "prevent_memorization": "Stratified splits, proper train/val/test separation"
     },
     "model_info": {
       "email_transformer": "ELECTRA-small",
       "captcha_model": "MobileNetV2 (pretrained on ImageNet, fine-tuned)",
-      "captcha_image_size": "48x48x3",
-      "transformers_version": "5.1.0",
-      "tensorflow_version": "2.20.0"
+      "captcha_image_size": "32x32x3",
+      "transformers_version": "5.4.0",
+      "tensorflow_version": "2.21.0"
     }
   },
-  "timestamp": "2026-02-14T22:11:24.564371",
+  "timestamp": "2026-04-02T16:43:17.909193",
   "input_shapes": {
     "phishing_model": "(None, 256)",
     "source_model": "(None, 256)",
@@ -63,5 +67,150 @@
     "context_match",
     "failure_rate",
     "brand_consistency"
+  ],
+  "ablation_results": [
+    {
+      "config": "Equal",
+      "w_p": 0.333,
+      "w_a": 0.333,
+      "w_c": 0.334,
+      "accuracy": 0.6064516129032258,
+      "precision": 0.7,
+      "recall": 0.7333333333333333,
+      "f1": 0.7162790697674418,
+      "auc": 0.5558095238095238
+    },
+    {
+      "config": "Phishing-Heavy",
+      "w_p": 0.5,
+      "w_a": 0.25,
+      "w_c": 0.25,
+      "accuracy": 0.6709677419354839,
+      "precision": 0.7109375,
+      "recall": 0.8666666666666667,
+      "f1": 0.7811158798283262,
+      "auc": 0.5133333333333333
+    },
+    {
+      "config": "AI-Heavy",
+      "w_p": 0.25,
+      "w_a": 0.5,
+      "w_c": 0.25,
+      "accuracy": 0.567741935483871,
+      "precision": 0.6862745098039216,
+      "recall": 0.6666666666666666,
+      "f1": 0.6763285024154589,
+      "auc": 0.4596190476190476
+    },
+    {
+      "config": "CAPTCHA-Heavy",
+      "w_p": 0.25,
+      "w_a": 0.25,
+      "w_c": 0.5,
+      "accuracy": 0.5290322580645161,
+      "precision": 0.6538461538461539,
+      "recall": 0.6476190476190476,
+      "f1": 0.6507177033492823,
+      "auc": 0.42342857142857143
+    },
+    {
+      "config": "Proposed",
+      "w_p": 0.4,
+      "w_a": 0.3,
+      "w_c": 0.3,
+      "accuracy": 0.6129032258064516,
+      "precision": 0.6859504132231405,
+      "recall": 0.7904761904761904,
+      "f1": 0.7345132743362832,
+      "auc": 0.6062857142857143
+    },
+    {
+      "config": "Phishing-Focused",
+      "w_p": 0.6,
+      "w_a": 0.2,
+      "w_c": 0.2,
+      "accuracy": 0.6516129032258065,
+      "precision": 0.6861313868613139,
+      "recall": 0.8952380952380953,
+      "f1": 0.7768595041322314,
+      "auc": 0.5190476190476191
+    },
+    {
+      "config": "Phishing-Moderate",
+      "w_p": 0.45,
+      "w_a": 0.3,
+      "w_c": 0.25,
+      "accuracy": 0.5935483870967742,
+      "precision": 0.6721311475409836,
+      "recall": 0.780952380952381,
+      "f1": 0.7224669603524229,
+      "auc": 0.5074285714285716
+    },
+    {
+      "config": "Balanced-AI",
+      "w_p": 0.35,
+      "w_a": 0.35,
+      "w_c": 0.3,
+      "accuracy": 0.5290322580645161,
+      "precision": 0.6509433962264151,
+      "recall": 0.6571428571428571,
+      "f1": 0.6540284360189573,
+      "auc": 0.4462857142857143
+    },
+    {
+      "config": "Balanced-CAPTCHA",
+      "w_p": 0.35,
+      "w_a": 0.3,
+      "w_c": 0.35,
+      "accuracy": 0.5483870967741935,
+      "precision": 0.6521739130434783,
+      "recall": 0.7142857142857143,
+      "f1": 0.6818181818181818,
+      "auc": 0.43828571428571433
+    },
+    {
+      "config": "AI-Focused",
+      "w_p": 0.3,
+      "w_a": 0.4,
+      "w_c": 0.3,
+      "accuracy": 0.5032258064516129,
+      "precision": 0.64,
+      "recall": 0.6095238095238096,
+      "f1": 0.624390243902439,
+      "auc": 0.42247619047619045
+    },
+    {
+      "config": "CAPTCHA-Focused",
+      "w_p": 0.3,
+      "w_a": 0.3,
+      "w_c": 0.4,
+      "accuracy": 0.6516129032258065,
+      "precision": 0.7383177570093458,
+      "recall": 0.7523809523809524,
+      "f1": 0.7452830188679245,
+      "auc": 0.6015238095238097
+    },
+    {
+      "config": "Defense-First",
+      "w_p": 0.55,
+      "w_a": 0.25,
+      "w_c": 0.2,
+      "accuracy": 0.6387096774193548,
+      "precision": 0.6788321167883211,
+      "recall": 0.8857142857142857,
+      "f1": 0.768595041322314,
+      "auc": 0.45980952380952383
+    },
+    {
+      "config": "Sophistication-First",
+      "w_p": 0.3,
+      "w_a": 0.45,
+      "w_c": 0.25,
+      "accuracy": 0.49032258064516127,
+      "precision": 0.625,
+      "recall": 0.6190476190476191,
+      "f1": 0.6220095693779905,
+      "auc": 0.38342857142857145
+    }
   ]
 }

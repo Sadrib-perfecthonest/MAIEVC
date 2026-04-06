@@ -1,53 +1,36 @@
 {
-  "phishing": {
-    "accuracy": 0.9282051282051282,
-    "precision": 0.9701492537313433,
-    "recall": 0.9285714285714286,
-    "f1": 0.948905109489051,
-    "evaluation_note": "Tested on HELD-OUT test set (20% of data) with 5-fold CV"
-  },
   "source": {
-    "accuracy": 0.9897435897435898,
-    "precision": 0.9836065573770492,
-    "recall": 1.0,
-    "f1": 0.9917355371900827,
-    "evaluation_note": "Tested on HELD-OUT test set (20% of data) with 5-fold CV"
+    "accuracy": 0.9933333333333333,
+    "precision": 0.9919354838709677,
+    "recall": 0.9972972972972973,
+    "f1": 0.9946091644204852,
+    "test_samples": 600,
+    "confusion_matrix": {
+      "TN": 227,
+      "FP": 3,
+      "FN": 1,
+      "TP": 369
+    }
   },
   "captcha": {
-    "accuracy": 0.9875,
-    "precision": 0.9802955665024631,
-    "recall": 0.995,
-    "f1": 0.9875930521091811,
-    "evaluation_note": "Tested on separate test set (30% of data)",
-    "indicators": "visual_quality, context_match, failure_rate, brand_consistency"
+    "accuracy": 0.9983566146261298,
+    "precision": 0.9983552631578947,
+    "recall": 0.9983552631578947,
+    "f1": 0.9983552631578947,
+    "test_samples": 1217,
+    "confusion_matrix": {
+      "TN": 608,
+      "FP": 1,
+      "FN": 1,
+      "TP": 607
+    }
   },
   "dataset_info": {
     "email_total_samples": 971,
-    "email_train_val_samples": 776,
-    "email_test_samples": 195,
-    "email_ai_phishing_samples": 499,
-    "email_human_phishing_samples": 199,
-    "email_ai_legitimate_samples": 99,
-    "email_human_legitimate_samples": 174,
-    "captcha_samples": 1561,
-    "email_features_dim": 256,
-    "captcha_image_shape": [
-      32,
-      32,
-      3
-    ]
-  },
-  "evaluation_protocol": {
-    "email_test_set": "20% held-out (never seen during training/validation)",
-    "captcha_test_set": "30% held-out (never seen during training/validation)",
-    "cross_validation": "5-fold for email models",
-    "prevent_memorization": "Stratified splits, proper train/val/test separation"
-  },
-  "model_info": {
-    "email_transformer": "ELECTRA-small",
-    "captcha_model": "MobileNetV2 (pretrained on ImageNet, fine-tuned)",
-    "captcha_image_size": "32x32x3",
-    "transformers_version": "5.4.0",
-    "tensorflow_version": "2.21.0"
+    "email_ai_samples": 598,
+    "email_human_samples": 373,
+    "email_test_samples": 600,
+    "captcha_total_samples": 8112,
+    "captcha_test_samples": 1217
   }
 }
